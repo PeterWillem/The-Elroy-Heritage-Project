@@ -659,3 +659,1125 @@ ppl/f/4/ef8c6f410cd1acd26a0da5b824f.html|?|Lily /?/|||||
 ppl/c/4/ef8c6fe27d42ae0d5110b9d854c.html|Elman|Harry /Elman/|||||
 ppl/1/2/ef8c702f7793d9453d6ef139b21.html|Elman|Sandy /Elman/|||||
 ppl/6/5/ef8c70b240d2a0b4cf5d9f51056.html|Elman|Marlene /Elman/|||||
+ppl/7/2/ef94d0653f17fb194a93be06627.html|Aardema|Giltje /Aardema/|1866||||
+ppl/a/2/ef94d06540d3a75c12d538d262a.html|Adema|Doedje Baukes /Adema/|||||
+ppl/d/e/ef94d0657355823597fed910ced.html|van Aefst|Sina Johanna /van Aefst/|13 OCT 1867|`Wijhe|||
+ppl/1/5/ef94d065753384a176055679651.html|Andringa|Bregtje /Andringa/|1 APR 1896|Tzum|6 JUN 1896|Tzum|
+ppl/d/2/ef94d06578e1b4b4f5bb343412d.html|Andringa|Dirk /Andringa/|1858||23 JAN 1941|Franekeradeel|
+ppl/c/3/ef94d0657ac21925a5ffe3a033c.html|Andringa|Grietje /Andringa/|2 MAY 1890|Tzum|||
+ppl/7/d/ef94d0657d414b0247a0c461ed7.html|Andringa|Jan /Andringa/|12 DEC 1887|Tzum (franekeradeel)|||
+ppl/6/a/ef94d0657f25b7290d8d122e2a6.html|Andringa|Nanne /Andringa/|15 FEB 1889|Tzum|16 MAR 1890|Tzum|
+ppl/b/3/ef94d06582e11a0819e60722a3b.html|Andringa|Nanne /Andringa/|28 APR 1891|Tzum|28 JUN 1891|Tzum|
+ppl/b/e/ef94d0658604992ae163c3b0eeb.html|Andringa|Nanne /Andringa/|21 NOV 1894|Tzum|2 DEC 1895|Tzum|
+ppl/d/1/ef94d0658922b8eb16177c8c31d.html|Andringa|Nannigje /Andringa/|5 MAR 1900|Tzum|30 JUL 1900|Tzum|
+ppl/7/f/ef94d0658c46b078aa4ae3831f7.html|Andringa|Nanning Simon /Andringa/|24 MAY 1892|Tzum|15 MAY 1893|Tzum|
+ppl/c/8/ef94d0659d57767fb2fe289b18c.html|Andringa|Nanning Simon /Andringa/|22 AUG 1893|Tzum|30 NOV 1893|Tzum|
+ppl/0/8/ef94d0659d578783f1be4a27f80.html|Andringa|Simon /Andringa/|2 MAR 1902|Tzum|16 JUN 1918|Tzum|
+ppl/8/7/ef94d065a2528487167c776ee78.html|Andringa|Tietje /Andringa/|18 DEC 1888|Tzum (franekeradeel)|||
+ppl/4/e/ef94d065a7513f602e795d0efe4.html|Arlene| /Arlene/|||||
+ppl/6/1/ef94d065a75240b879cdd7ef16.html|van Asch|Jacob /van Asch/|8 SEP 1913|Rotterdam|26 NOV 1984|Rotterdam|
+ppl/2/5/ef94d065a7534f107d6eaa44452.html|Arjens|Jaike /Arjens/|||||
+ppl/9/7/ef94d065a757649dee207a87179.html|van Asch|Dirk Jacob /van Asch/|9 AUG 1948|Rotterdam|||
+ppl/1/4/ef94d065ac520b5e8d68aa0ec41.html|van Asch|Klazina Maria /van Asch/|26 APR 1951|Rotterdam|||
+ppl/4/9/ef94d065ac52d69e7ef70f3c694.html|van Asch|Robert Jan /van Asch/|17 APR 1946|Rotterdam|||
+ppl/1/9/ef94d065b1528cd3bf8540fc291.html|Badenhorst|D'lishe /Badenhorst/|2 DEC 1993||||
+ppl/0/5/ef94d065b152e7ec3527277e950.html|Baas|Hennie /Baas/|||||
+ppl/9/c/ef94d065b1543f74ac875da52c9.html|Badenhorst| /Badenhorst/|||||
+ppl/1/9/ef94d065b681061077b71cb1d91.html|Badenhorst|Wouter /Badenhorst/|24 NOV 1995||||
+ppl/5/1/ef94d065b867d899c142c6bc615.html|Foktje|Ina /Foktje/ Bakker|||||
+ppl/3/f/ef94d065bd81fe1763747abd5f3.html|Bakker|Zietske /Bakker/|||||
+ppl/5/a/ef94d065bd854c247a40831d4a5.html|Bastiaans|Annemieke Hentina /Bastiaans/|14 JUN 1971|Rotterdam, Havenziekenhuis|||
+ppl/4/b/ef94d065c283733f585aedac4b4.html|Bastiaans|Laurens George /Bastiaans/|27 MAR 1945|Rotterdam|||
+ppl/d/a/ef94d065c28469e4b013222b1ad.html|Bastianse|Pearl /Bastianse/|||||
+ppl/1/5/ef94d065c285eed7fcb8fd7da51.html|Bastiaans|Eveline Barbara /Bastiaans/|27 MAR 1969|Rotterdam, St. Fransiscus Gasthuis|||
+ppl/7/e/ef94d065c782070e06c356e84e7.html|Benetton|Laura /Benetton/|15 JAN 1992||||
+ppl/a/8/ef94d065c782250f60edeb86b8a.html|Benetton|Liam /Benetton/|19 JUN 1993||||
+ppl/1/3/ef94d065c7873be24d566560f31.html|van Beijnum|Marianne /van Beijnum/|29 JUL 1930|Hoorn|5 OCT 2002|Utrecht|
+ppl/6/3/ef94d065cc82ecf5d634cd06436.html|Benetton|Olivia /Benetton/|30 AUG 1995||||
+ppl/1/2/ef94d065cc85eb0572cf12b3721.html|Benetton|Nigel /Benetton/|4 AUG 1949||||
+ppl/3/b/ef94d065d1815a9dac41aa38b3.html|Bengevoort|Gerrit Jan /Bengevoort/|||||
+ppl/d/f/ef94d065d1826e9ea91e52c3efd.html|Bepkes Morra|Pieter /Bepkes Morra/|||30 NOV 1810||
+ppl/3/c/ef94d065d185f08ace5e0503fc3.html|Bengevoort|Hermina Berendina /Bengevoort/|24 JUN 1828||15 APR 1901||
+ppl/0/0/ef94d065d6813038674def1b00.html|van den Berg|Rene /van den Berg/|||||
+ppl/4/7/ef94d065d6840d5f2b3b4894b74.html|van den Berg|Sanne Paulan /van den Berg/|26 AUG 1977|Arnhem|||
+ppl/e/a/ef94d065e4f6ae65ad0b8e7b5ae.html|van der Bijl|Saskia Tjitske /van der Bijl/|24 NOV 1971|Uithuizenmeeden|||
+ppl/4/9/ef94d065e4f7b8598c605d2c494.html|van der Blij|Maria /van der Blij/|11 JAN 1916|Leiden|17 MAY 2003||
+ppl/a/e/ef94d065e9f108e3468722671ea.html|Boomers|Shirley /Boomers/|29 JUL 1937||||
+ppl/0/9/ef94d065e9f14fc80bc551a8690.html|Bloemsma|Wybren Rochus /Bloemsma/|1793||||
+ppl/0/4/ef94d065e9f3a5b0ebe42d18040.html|de Boer|Akke /de Boer/|||||
+ppl/8/9/ef94d065e9f52bd50be2850ba98.html|Unknown| /Unknown/|||||
+ppl/2/5/ef94d065eef11f6cdb8627fc652.html|Bosman|Barta /Bosman/|||||
+ppl/5/7/ef94d065eef4becfce785e7875.html|Boszhardt|Jan /Boszhardt/|18 JUN 1914|Amsterdam|||
+ppl/8/c/ef94d065eef8e3c331f949c5c8.html|Boshoff|Reinier /Boshoff/|28 MAR 1967||||
+ppl/5/f/ef94d065f3f504280dd5ac3d6f5.html|te Brake|Arent /te Brake/|23 OCT 1768|Aalten|28 FEB 1839|Aalten|
+ppl/d/8/ef94d065f3fc7c9a24cb0f9e8d.html|te Brake|Catharina /te Brake/||||Canada|
+ppl/9/5/ef94d065f8f23e465272208d659.html|te Brake|Gerrit Jan /te Brake/|24 FEB 1856||15 OCT 1940||
+ppl/c/c/ef94d065fdf32a8d395ad9680cc.html|te Brake|Gerrit Jan /te Brake/|29 OCT 1906|Aalten||Canada|
+ppl/e/7/ef94d065fdf540e10b905edb07e.html|te Brake|Gesina Hendrika /te Brake/|13 AUG 1859|Aalten|||
+ppl/b/7/ef94d06602f2c834102f074bc7b.html|te Brake|Gesina Hendrika /te Brake/|20 DEC 1912|Aalten|||
+ppl/0/f/ef94d06602f2e82c456fe60c5f0.html|te Brake|Gesina Hendrika /te Brake/|||||
+ppl/9/8/ef94d06602f34a7bdae787b889.html|te Brake|Grada Aleida /te Brake/|21 SEP 1831||||
+ppl/6/a/ef94d0660cf69c9de83033f82a6.html|te Brake|Harmina Berendina /te Brake/|7 SEP 1902|Aalten||Canada|
+ppl/a/7/ef94d06611f2485ba792b00d57a.html|te Brake|Hendrik Jan /te Brake/|11 JAN 1794|Aalten|3 SEP 1851|Aalten|
+ppl/b/a/ef94d06611f2c32768f570f50ab.html|te Brake|Harmina Gerharda /te Brake/|||||
+ppl/c/1/ef94d06611fa234c50e87bcb1c.html|te Brake|Hendrik /te Brake/|9 DEC 1903|Aalten|8 SEP 1986|Aalten|
+ppl/b/a/ef94d06616f302171416ffa0aab.html|te Brake|Hendrik Jan /te Brake/|17 MAY 1870|Aalten|30 JUL 1945||
+ppl/d/7/ef94d0661bf1ae2ce3fc7c067d.html|te Brake|Hendrika Johanna /te Brake/|21 FEB 1909|Aalten|10 OCT 1999|Arnhem|
+ppl/8/e/ef94d0661bf22f6f362b3d606e8.html|te Brake|Hendrika /te Brake/|||||
+ppl/d/6/ef94d0661bf4d2ba71f5d05d06d.html|te Brake|Hendrika Johanna Maria /te Brake/|18 JUL 1901|Aalten|4 JAN 1986|Apeldoorn|
+ppl/2/4/ef94d06620f12efda8cd333cc42.html|te Brake|Jan Berend /te Brake/|7 NOV 1825|Aalten|21 FEB 1901|Aalten|
+ppl/6/a/ef94d06625f3bfae218c76da3a6.html|te Brake|Johannes Bernardus /te Brake/|8 MAR 1900|Bocholt|4 FEB 1956|Alkmaar|
+ppl/2/9/ef94d06625f6731d4f40c431792.html|te Brake|Johanna Hendrika /te Brake/|18 FEB 1829||21 JUN 1902||
+ppl/2/e/ef94d0662af7762568402e097e2.html|van Breem|Maria Geertrui Elisabeth /van Breem/|12 APR 1863|Amsterdam|10 APR 1927|Amsterdam|
+ppl/5/f/ef94d0662af7bde0f7a23a4bff5.html|te Brake|Johannes Marinus /te Brake/|||||
+ppl/2/8/ef94d06634f328c44e45baf4682.html|Bron|Lando /Bron/|30 OCT 1975||||
+ppl/7/3/ef94d06634f56918fb80cd95b37.html|Bron|Marlayne Iris /Bron/|6 JUN 2002||||
+ppl/f/4/ef94d06639f1182bd9873edf84f.html|Bronsdijk| /Bronsdijk/|||||
+ppl/a/2/ef94d06639f30ed8233d1bd2f2a.html|Bronsdijk|Olivia Fay /Bronsdijk/|5 SEP 2016|Den Haag|||
+ppl/9/5/ef94d06639ff16cb2b72bfa359.html|Bronsdijk|Olivia Fay /Bronsdijk/|5 SEP 2016|Den Haag|||
+ppl/3/e/ef94d0663ef6ff3ff162cfbbfe3.html|Bruinsma|Tineke /Bruinsma/|21 MAY 1939||||
+ppl/8/c/ef94d0663ef7f9452a45200d7c8.html|Burgess|Alisa Ann /Burgess/|14 SEP 1983||||
+ppl/1/0/ef94d0663efa6f2188b233cf01.html|Burgess|Brenda Joy /Burgess/|27 FEB 1979||||
+ppl/8/6/ef94d0663efdc642e2d66f6868.html|Bronsdijk|Tobias /Bronsdijk/|21 AUG 1985||||
+ppl/3/9/ef94d06643f35729f740957ee93.html|Burgess|Larry Bruce /Burgess/|9 DEC 1953||||
+ppl/6/9/ef94d06643f5e1c4c646fdc0096.html|Burna|Jan /Burna/|||||
+ppl/7/8/ef94d06643faaa0e76af0c0b87.html|Burgess|Timothy Bruce /Burgess/|27 JUL 1982||||
+ppl/3/9/ef94d06648f28b702a856bf9193.html|Butgereit|Bradley Bernard /Butgereit/|22 JUN 1973||||
+ppl/0/f/ef94d06648f6c2007a2439d15f0.html|Butgereit|Hannah Renae /Butgereit/|20 DEC 2000||||
+ppl/e/c/ef94d06648f7d176f605f5d54ce.html|Butgereit|Bradley James /Butgereit/|16 APR 1999||||
+ppl/c/0/ef94d0664df687b7532753650c.html|Buys|Annemie /Buys/|7 JUN 1982||||
+ppl/6/4/ef94d0664dfb056f08ff5fc346.html|Buys|Fanie /Buys/|19 JUN 1950||||
+ppl/2/7/ef94d06652f3e49d73e38b39172.html|Buys|Stephanus /Buys/|21 APR 1984||||
+ppl/c/b/ef94d06657f172919c27e8ea1bc.html|Coetzee|Leonie /Coetzee/|16 APR 1989||||
+ppl/9/a/ef94d06657f1e372359883fda9.html|Coetzee|Antoinette /Coetzee/|4 OCT 1984||||
+ppl/f/5/ef94d06657f23ca690caccb965f.html|Collewijn|Yvonne /Collewijn/|||||
+ppl/d/0/ef94d06657f3fcd59ea1df2180d.html|Cockx|C. /Cockx/|||||
+ppl/7/7/ef94d0665cf5374ae2b7b0db77.html|Daalewijk (Zwiersen)|Johanna /Daalewijk (Zwiersen)/|||||
+ppl/3/5/ef94d0665cf5ee6c92951b67153.html|Cornelis|Gerrijt /Cornelis/|||BEF 1811||
+ppl/d/d/ef94d0665cf6c93431f31f5c4dd.html|van Dalzen|Grietje Johannes /van Dalzen/|||||
+ppl/9/d/ef94d0665cf6e2bf6eef862a3d9.html|Damstra|Klaske Dirks /Damstra/|||BEF 1887||
+ppl/9/2/ef94d06661f208b4b413d4bd29.html|van Deasen (Denzen)|Antje Barts /van Deasen (Denzen)/|||||
+ppl/4/b/ef94d06661f4b6ee93e92bfd6b4.html|DenHollander|David /DenHollander/|||||
+ppl/b/3/ef94d06661f6a53682e0462cf3b.html|DenHollander|Cindy /DenHollander/|||||
+ppl/9/0/ef94d06661f73ec4d66bddaec09.html|DenHollander|Jack /DenHollander/|||||
+ppl/6/3/ef94d06666f24e18d55938ffd36.html|DenHollander|Jack J. /DenHollander/|23 JUN 1932|Hillegersberg|2002|Canada|
+ppl/7/2/ef94d06666f623dd3790785d527.html|DenHollander|Ron /DenHollander/|||||
+ppl/0/0/ef94d06666f71d851be6b99a200.html|DenHollander|Rick /DenHollander/|||||
+ppl/e/8/ef94d0666c429d4ced1986b4a8e.html|van Dijk|Anneke /van Dijk/|19 NOV 1958||||
+ppl/b/b/ef94d0666d93c21d9d2d02fb2bb.html|van Dijk|Jaap /van Dijk/|15 JUN 1925||||
+ppl/1/f/ef94d0666ee5438764d271f25f1.html|van Dijk|Jacobje /van Dijk/|20 FEB 1856|Noordwolde|10 JUL 1909|Nederland|
+ppl/0/c/ef94d0667726845d119a6e054c0.html|van Dijk|Jeanette /van Dijk/|24 JAN 1957||||
+ppl/a/f/ef94d0667881b6b0b272f1eacfa.html|van Dijk|Margrieta /van Dijk/|15 JUN 1954||||
+ppl/4/6/ef94d06679e7367a7962f729564.html|van Dijk|Narda /van Dijk/|19 JUL 1961||||
+ppl/6/1/ef94d0667a9388b9b4b3ef29f16.html|Dirks|Berber /Dirks/|||9 DEC 1813|Hallum|
+ppl/7/c/ef94d0667a9684a9d606d370dc7.html|Dijkstra|Klaske Jorrits /Dijkstra/|||||
+ppl/4/f/ef94d0667f9334129f6017e0bf4.html|Donia|Gerrit /Donia/|26 MAR 1880|Franeker|||
+ppl/9/a/ef94d0667f97b7b4937d8062ea9.html|Dirks|Eeltie /Dirks/|1743|Westernijkerk|25 SEP 1808|Nykerk|
+ppl/5/0/ef94d0668493d305772835fac05.html|Donia|Gerrit /Donia/|18 JUN 1882|Franeker|||
+ppl/1/d/ef94d06684974bfd34ad69d9ed1.html|Donia|Harmen Gerrits /Donia/|||10 NOV 1885|Franeker|
+ppl/4/4/ef94d0668992ff355266c9e5f44.html|van Dooren|Bartus Hendrikus /van Dooren/|20 JAN 1903|Stad Almelo|10 NOV 1959|Arnhem|
+ppl/b/8/ef94d066899340d5aac81cd558b.html|van Dooren|Bart /van Dooren/|18 DEC 1872|Arnhem|5 JUN 1876|Arnhem|
+ppl/d/f/ef94d06689971bbacbb552572fd.html|Donia|Klaske /Donia/|4 MAY 1886|Franeker|||
+ppl/3/f/ef94d0668e97ffdf474ccdc1ff3.html|van Dooren|Berend /van Dooren/|18 DEC 1898|Stad Almelo|OCT 16382|Dolkau in Zoschen (Duitsland)|
+ppl/4/a/ef94d06698933d661d90e15fba4.html|Unknown| /Unknown/|||||
+ppl/8/9/ef94d06698950123e908be97f98.html|van Dooren|Catharina /van Dooren/|28 MAR 1934|Deventer|2 MAR 2008|Oosterbeek|
+ppl/7/4/ef94d066989d87033d82302047.html|van Dooren|Catharina Johanna /van Dooren/|1 APR 1905|Stad Almelo|||
+ppl/a/a/ef94d0669d927d92095a06c6aaa.html|van Dooren|Daniel /van Dooren/|12 OCT 1798|Kampen|11 JAN 1862|Kampen|
+ppl/7/6/ef94d0669d9566e1b457172d367.html|van Dooren|Cornelis /van Dooren/|14 MAR 1872|Kampen|18 MAR 1896|Kampen|
+ppl/5/c/ef94d0669d9635592dfd186a4c5.html|van Dooren|Daniel /van Dooren/|3 JUL 1864|Kampen|16 NOV 1934|Semerang|
+ppl/1/4/ef94d066a29478ce7c611ce7e41.html|van Dooren|Daniel Johannes /van Dooren/|6 FEB 1888|Kampen|25 FEB 1889|Kampen|
+ppl/2/8/ef94d066a793fb79bf2b69a6b82.html|van Dooren|Dirk Jan /van Dooren/|2 JUN 1832|Kampen|6 FEB 1840|Kampen|
+ppl/7/4/ef94d066a79e8383118a9f747.html|van Dooren|dood geboren kind /van Dooren/|30 OCT 1924|Kampen|30 OCT 1924|Kampen|
+ppl/2/e/ef94d066ac91b429a8aaafa61e2.html|van Dooren|Elsje /van Dooren/|12 JUN 1889|Kampen|2 JAN 1947|Kampen|
+ppl/0/6/ef94d066ac92100f97ee248f960.html|van Dooren|Everdina /van Dooren/|12 JAN 1896|Kampen|27 DEC 1896|Kampen|
+ppl/0/1/ef94d066ac961dd05e807f56210.html|van Dooren|Elisabeth /van Dooren/|29 SEP 1860|Kampen|27 JAN 1866|Kampen|
+ppl/9/4/ef94d066b19404a6b531c3eb049.html|van Dooren|Everdina /van Dooren/|17 MAY 1899|Kampen|21 JAN 1902|Kampen|
+ppl/3/f/ef94d066bb9489ff1e6a87cdef3.html|van Dooren|Evert /van Dooren/|8 MAR 1891|Kampen|20 JUL 1892|Kampen|
+ppl/f/0/ef94d066bb94d1ea397e834340f.html|van Dooren|Helena Catharina /van Dooren/|13 JUN 1900|Stad Almelo|||
+ppl/c/c/ef94d066bb95df8e7f66de7f3cc.html|van Dooren|Evert /van Dooren/|24 JUN 1862|Kampen|19 OCT 1933|Kampen|
+ppl/0/8/ef94d066c167fd99f4840794a80.html|van Dooren|Helena Johanna /van Dooren/|3 SEP 1940|Deventer|||
+ppl/9/4/ef94d066c16ae50151c1f33749.html|van Dooren|Hendrik Karel /van Dooren/|27 JUL 1884|Kampen|28 FEB 1962|Kampen|
+ppl/3/7/ef94d066c666721f0a6e88b1d73.html|van Dooren|Johanna Catharina /van Dooren/|18 JUN 1894|Kampen|5 APR 1896|Kampen|
+ppl/3/c/ef94d066c669b979def9e9b6c3.html|van Dooren|Jacobus /van Dooren/|25 MAY 1875|Arnhem|26 MAY 1875|Arnhem|
+ppl/7/7/ef94d066cb66fef7a84db2a9d77.html|van Dooren|Johannes /van Dooren/|29 NOV 1835|Kampen|27 MAR 1911|Kampen|
+ppl/f/a/ef94d066cb6744be2c49e364faf.html|van Dooren|Johannes /van Dooren/|24 JUL 1870|Kampen|14 JAN 1876|Arnhem|
+ppl/1/3/ef94d066d062c39ce932330f231.html|van Dooren|Karel Joan /van Dooren/|4 NOV 1866|Kampen|31 OCT 1937|Almelo|
+ppl/e/0/ef94d066d064ff5720bad04490e.html|van Dooren|Johannes /van Dooren/|29 SEP 1897|Stad Almelo|26 AUG 1944|Leusden|
+ppl/6/2/ef94d066d564587eb3da972d026.html|van Dooren|Klazina /van Dooren/|28 OCT 1897|Kampen|||
+ppl/6/f/ef94d066d565a15c8b08748ef6.html|van Dooren|Katriena Johanna /van Dooren/|6 MAR 1859|Kampen|27 JAN 1864|Kampen|
+ppl/9/d/ef94d066da66c360c8d92e4d6d9.html|van Dooren|Leendert /van Dooren/|23 SEP 1868|Kampen|20 AUG 1952|Arnhem|
+ppl/9/2/ef94d066df6300856fb3dde5c29.html|van Dooren|Maria Johanna /van Dooren/|30 OCT 1824|Kampen|1 NOV 1824|Kampen|
+ppl/d/a/ef94d066e46330650769465f3ad.html|van Dooren|Maria Johanna /van Dooren/|22 JUL 1830|Kampen|3 AUG 1831|Kampen|
+ppl/1/c/ef94d066e463ceb4764911512c1.html|van Dooren|Mozes /van Dooren/|12 MAY 1902|Kampen|||
+ppl/4/5/ef94d066e963510671583bc154.html|van Dooren|Nicolaas /van Dooren/|16 JUL 1828|Kampen|21 DEC 1915|Kampen|
+ppl/4/9/ef94d066e9640fb83046e116894.html|van Dooren|Willem /van Dooren/|15 SEP 1910|Stad Almelo|||
+ppl/5/c/ef94d066e9661d5333916aae0c5.html|van Dooren|Willempje Catharina /van Dooren/|7 MAR 1932|Arnhem|||
+ppl/1/8/ef94d066ee61fcb0f436d569d81.html|Douma|Trijntje Hannes /Douma/|||||
+ppl/c/6/ef94d066ee651e76c53cfa1656c.html|Draijer|Alexander Hendrik /Draijer/|19 APR 1962|Sassenheim|||
+ppl/7/b/ef94d066ee67b2324ebd19592b7.html|Draijer|Birgitta Maria /Draijer/|5 MAR 1958|Haarlem|||
+ppl/1/2/ef94d066f3710c983c8627f7621.html|Drijfhout|Sipkje /Drijfhout/|31 MAY 1888|Haskerland|23 FEB 1892|Haskerland|
+ppl/a/8/ef94d066f375f4811bb2199508a.html|Draijer|Franciscus Nicolaas /Draijer/|5 SEP 1959|Schiedam|||
+ppl/f/a/ef94d066f377aa8f2512b11f4af.html|Draijer|Hendrik Cornelis Antonius /Draijer/|29 JUL 1933|Heemstede|2000||
+ppl/d/4/ef94d066f867fa5266b6382604d.html|Drijfhout|Wiebe /Drijfhout/|10 AUG 1850|Schoterland|3 MAY 1908|Groningen/ Haskerland|
+ppl/7/2/ef94d0670267395611a6ebf8027.html|Drijfhout|Fokje /Drijfhout/ Drijhout|12 SEP 1882|Aengwirden|||
+ppl/a/7/ef94d06702677267a5f8c87187a.html|Edes|Janke /Edes/|||BEF 1811||
+ppl/e/7/ef94d0670763970bce2363b337e.html|Eeltjes|Gryttje /Eeltjes/|9 APR 1777|Nijkerk|||
+ppl/c/2/ef94d06707649499e069ff98c2c.html|Eelties|Dirk /Eelties/|||||
+ppl/4/3/ef94d0670767804f9aacdd66934.html|van Eede|Johanna Alberdina /van Eede/|13 FEB 1903|Deventer|22 DEC 1972|Deventer|
+ppl/e/d/ef94d0670c649a1d7be25a046de.html|Egbers|Roelofjen /Egbers/|||||
+ppl/6/f/ef94d0670c65358b64890076ef6.html|Eising|Jelle /Eising/|||||
+ppl/f/0/ef94d0670c66b5b7de7ec3d900f.html|Eisma|Lies /Eisma/|23 OCT 1931||||
+ppl/b/e/ef94d06711622d22a0bac4b64eb.html|Faber|Antje /Faber/|13 MAR 1811|Harlingen|1 FEB 1849|Harlingen|
+ppl/4/6/ef94d0671162372d40f187e6964.html|Evers|Harmina /Evers/|||||
+ppl/0/4/ef94d06711625b7bd70ea465f40.html|Faas|Maria /Faas/|23 APR 1918||1997||
+ppl/3/1/ef94d06711634149ffb429c7413.html|Engelsma|Dewey Alan /Engelsma/|6 AUG 1979||||
+ppl/8/1/ef94d06716648993482fe332d18.html|Faber|Dirk /Faber/|10 JAN 1822|Harlingen|12 JUN 1851|Harlingen|
+ppl/6/4/ef94d0671b6414ac305cb671446.html|Faber|Dirk Hendriks /Faber/|||30 NOV 1845|Harlingen|
+ppl/6/9/ef94d06720642d3f79430b95f96.html|Faber|Geertje /Faber/|4 APR 1819|Harlingen|2 AUG 1862|Harlingen|
+ppl/8/7/ef94d067256704d5e088ec0ef78.html|Faber|Grietje Dirks /Faber/|13 APR 1816|Harlingen|12 SEP 1889|Franeker|
+ppl/7/7/ef94d06725676aea0b68da98a77.html|Faber|Grietje /Faber/|13 SEP 1813|Harlingen|8 DEC 1814|Harlingen|
+ppl/1/8/ef94d0672a61370176791891881.html|Faber|Tjalling /Faber/|19 OCT 1824|Harlingen|24 OCT 1853|Harlingen|
+ppl/7/b/ef94d0672f61c3e8c7cb9308db7.html|Faber|Willem /Faber/|10 APR 1829|Harlingen|19 JUL 1862|Harlingen|
+ppl/a/b/ef94d0672f643665002d5b7d2ba.html|Faught|Ivan /Faught/|6 MAR 1962||||
+ppl/1/1/ef94d0672f65eb89a20fdd30b11.html|Faught|Jaco /Faught/|19 MAY 1986||||
+ppl/c/c/ef94d067346700ada2c781003cc.html|Feddema|Barbara Susan /Feddema/|29 SEP 1963|Bowmanville, Canada|||
+ppl/d/a/ef94d067346706314c0695a53ad.html|Faught|Marike /Faught/|21 DEC 1995||||
+ppl/f/3/ef94d067346cb3b6df914e3a3f.html|Faught|Werner /Faught/|12 JUN 1983||||
+ppl/a/9/ef94d06739629c130f01df4df9a.html|Feddema|Rienk /Feddema/|23 JUN 1937||||
+ppl/5/3/ef94d0673967b3aa25595a65f35.html|Feddema|Jennifer /Feddema/|6 DEC 1975||||
+ppl/4/9/ef94d0673967f36cc987a569994.html|Feddema|Raymond /Feddema/|||||
+ppl/6/e/ef94d06743612230c0e8b8238e6.html|Feddema|Simon /Feddema/|||||
+ppl/d/b/ef94d0674363c0c536850d426bd.html|Fokkema|Jacob Fokkes /Fokkema/|1785||||
+ppl/8/d/ef94d0674363d34cac42d2b45d8.html|Fokkema|Herke /Fokkema/|||||
+ppl/c/e/ef94d0674368d2ad78d26d01ec.html|Feddema|Wilma /Feddema/|16 MAY 1968||||
+ppl/2/3/ef94d067486277370809f577132.html|Fuss|Sophia Marie /Fuss/|27 AUG 2002||||
+ppl/a/9/ef94d06748627eadfba88463e9a.html|Fuss|Gerald Paul /Fuss/|||||
+ppl/f/2/ef94d0674865ca225005a9db42f.html|Unknown| /Unknown/|||||
+ppl/d/1/ef94d0674866cfce103707261d.html|Folsma|Alke /Folsma/|||||
+ppl/1/5/ef94d0674d61c038106d89a8651.html|Geddes|Fran /Geddes/|25 JUN 1951|Geraldton (West Australie)|||
+ppl/e/0/ef94d0674d638d4a7e40788420e.html|Gemser|Elisabeth /Gemser/|1771||21 OCT 1828||
+ppl/2/e/ef94d0675262f4d137fbb30afe2.html|Gerritsen|Jacabus Johannes /Gerritsen/|21 SEP 1962|Amersfoort|||
+ppl/9/9/ef94d06752643b27f635bd5a099.html|Gerritsen|Jeroen Joost /Gerritsen/|26 JAN 1987|Amersfoort|||
+ppl/4/c/ef94d067526795c9fb1d976a4c4.html|Gerritsen|Eline Maaike /Gerritsen/|29 OCT 1989|Amersfoort|||
+ppl/e/d/ef94d06757619b5cdc567e5c2de.html|van Gorkum|Trijntje /van Gorkum/|||||
+ppl/c/5/ef94d06757678cfab9b7e765e5c.html|Gerritsma|Sytske Gerrits /Gerritsma/|4 JUN 1769|Hallum|23 OCT 1840|St.Annaparochie / Hei Bildt|
+ppl/b/8/ef94d0675c65e6b0130a2d3058b.html|Gorter|Ymkje /Gorter/|25 OCT 1889|Almenum|11 OCT 1956|Amsterdam|
+ppl/3/2/ef94d067616133c9c9dbf948123.html|Graven|Harmina /Graven/|||||
+ppl/5/3/ef94d067666139c83870edcb35.html|Groeneveld|Bregtje /Groeneveld/|4 SEP 1860|Wynaldum|12 JAN 1938|Barradeel|
+ppl/5/6/ef94d06766659018badd0211165.html|Groen|Albert /Groen/|||||
+ppl/2/5/ef94d0676b6112f6e1fea670652.html|Groeneveld|Gerrit /Groeneveld/|11 JUL 1856|Barradeel|11 APR 1859|Barradeel|
+ppl/e/7/ef94d0676b67ebbffcc48cefd7e.html|Groeneveld|Freerk Gerrits /Groeneveld/|2 FEB 1828|Barradeel|29 AUG 1888|Barradeel|
+ppl/9/3/ef94d0677061e39fd25ecf51539.html|Groeneveld|Saapke /Groeneveld/|2 FEB 1864|Barradeel|14 NOV 1927|Barradeel|
+ppl/d/c/ef94d067706307195f0029b0cd.html|Groeneveld|Jan /Groeneveld/|7 AUG 1858|Barradeel|||
+ppl/b/e/ef94d0677064b5f2ec483d10eb.html|Groeneveld|Gerrit /Groeneveld/|23 MAY 1862|Barradeel|||
+ppl/3/1/ef94d06775644b8270aff821f13.html|de Groot|Antje /de Groot/|6 MAY 1834|Barradeel|||
+ppl/3/b/ef94d06775653aee6810cd43eb3.html|Groeneveld|Trijntje /Groeneveld/|16 NOV 1867|Barradeel|||
+ppl/8/9/ef94d0677a64469a7a33f84b798.html|de Groot|Elisabeth /de Groot/|9 MAR 1915|Amsterdam|||
+ppl/d/3/ef94d0677a6690552d1a821683d.html|de Groot|Bart /de Groot/|15 JAN 1842|Barradeel|||
+ppl/b/6/ef94d0677f62417dde9bac9736b.html|de Groot|Hyke /de Groot/|23 MAY 1854|Barradeel|||
+ppl/2/9/ef94d0678461b3865189648a292.html|de Groot|Janke /de Groot/|4 NOV 1835|Barradeel|||
+ppl/a/b/ef94d0678962674c8f01c56c3ba.html|de Groot|Lieske /de Groot/|26 NOV 1837|Barradeel|10 JUL 1905|Harlingen|
+ppl/f/5/ef94d0678967aae4551aeb0d75f.html|de Groot|Klaas /de Groot/|27 NOV 1832|Barradeel|||
+ppl/9/b/ef94d0678e9217c0d7686effdb9.html|de Groot|Sikke /de Groot/|31 AUG 1839|Barradeel|||
+ppl/7/3/ef94d0678e9223537a6e4d5b537.html|de Groot|Tiete Sikkes /de Groot/|||||
+ppl/9/f/ef94d0678e9a729d75ae9747f9.html|Grootenkamp|Derk /Grootenkamp/|||||
+ppl/3/7/ef94d06793934493257bf31fa73.html|Haadsma|Jantje Anries /Haadsma/|||||
+ppl/7/3/ef94d0679397dcd8d9bbec33937.html|de Haas|Albertje /de Haas/|25 MAR 1833|Franeker|||
+ppl/f/0/ef94d0679397ebf3e28b3448a0f.html|Grootenkamp|Elisabeth /Grootenkamp/|15 MAR 1802|Zwoll|5 AUG 1867|Kampen|
+ppl/c/b/ef94d06798930e5b4c2ff649ebc.html|de Haas|Elisabeth /de Haas/|14 APR 1836|Franeker|||
+ppl/c/2/ef94d0679894c20b7bea68cf62c.html|de Haas|Elisabeth /de Haas/|27 FEB 1835|Franeker|15 MAR 1835|Franeker|
+ppl/6/d/ef94d0679d92129bdb0e9e81cd6.html|de Haas|Knierke Sikkes /de Haas/|26 SEP 1830|Franeker|13 APR 1859|Franeker|
+ppl/8/f/ef94d067a2955e930659f69e9f8.html|de Haas|Sikke Elias /de Haas/|||||
+ppl/e/c/ef94d067a7959d24c59688059ce.html|Halma|Anne Nannes /Halma/|||28 OCT 1819|Dronrijp|
+ppl/0/4/ef94d067a79616ee784b7964040.html|Halma|Grietje Sijes /Halma/|1828|Leeuwarderadeel|8 OCT 1828|Leeuwarderadeel|
+ppl/c/8/ef94d067a797a2c36318986ee8c.html|Halma (Hallema)|Durk,Dirk /Halma (Hallema)/|7 DEC 1831|Leeuwarderadeel|||
+ppl/0/5/ef94d067ac97187fbe472570750.html|Halma (Hallema)|Grietje /Halma (Hallema)/|20 SEP 1829|Ferwerderadeel|||
+ppl/d/3/ef94d067ac97bc44f6d5eef973d.html|Halma (Hallema)|Grietje /Halma (Hallema)/|10 MAY 1834|Leeuwarderadeel|||
+ppl/5/8/ef94d067b19ce70f44429dc585.html|Halma (Hallema)|Sije Annes /Halma (Hallema)/|1798|Dronrijp/Menaldumadeel|17 FEB 1862|Menaldumadeel|
+ppl/b/6/ef94d067b69384b38a7478eee6b.html|Hamstra|Neinke Roelofs /Hamstra/|||||
+ppl/a/5/ef94d067b6939b1e97e0103355a.html|ten Hamstra|Jenny /ten Hamstra/|10 MAR 1962||||
+ppl/6/9/ef94d067b695792c00c7a73e896.html|Hamstra|Jan Harmens /Hamstra/|1786||||
+ppl/b/c/ef94d067b6973ca6f8a15ca23cb.html|Unknown| /Unknown/|||||
+ppl/c/9/ef94d067b697435334937b0079c.html|Hawley|Teresa Kay /Hawley/|26 MAY 1950||||
+ppl/a/0/ef94d067bb9691fca0b53c4f0a.html|van der Heide|Jantje Hayes /van der Heide/|||||
+ppl/c/2/ef94d067bb9ba25291b479832c.html|van Heerde|Katriena Johanna /van Heerde/|||||
+ppl/2/b/ef94d067bb9c57e1013e8ec4b2.html|Heesen|Margaretha Johanna /Heesen/|29 JAN 1932|Susteren|||
+ppl/8/e/ef94d067c5912705b1135c876e8.html|Heijdelberger|Adriana Henrica /Heijdelberger/|26 NOV 1905||10 JUN 1940||
+ppl/a/f/ef94d067c5955bbad1e369ab3fa.html|Heijdelberger|Antonette Hendrika /Heijdelberger/|29 FEB 1896|Amsterdam|6 JAN 1962|Zutphen|
+ppl/8/c/ef94d067c59f02384597c4d2c8.html|Heijdelberger|Carolina Henrica /Heijdelberger/|25 OCT 1901|Amsterdam|27 AUG 1984|Zaandam|
+ppl/c/b/ef94d067ca94d4ef3dc1bf3c0bc.html|Heijdelberger|Everdina Albertha /Heijdelberger/|14 DEC 1899|Amsterdam|28 MAR 1982|Amsterdam|
+ppl/8/0/ef94d067ca967204c1b2635c208.html|Heijdelberger|Geertruida Johanna /Heijdelberger/|21 OCT 1897|Amsterdam|||
+ppl/d/7/ef94d067cf96b8c2cfdaa6c107d.html|Heijdelberger|Helena Maria /Heijdelberger/|6 NOV 1903|Amsterdam|||
+ppl/a/e/ef94d067cf97cf9293d9dbd6cea.html|Heijdelberger|Hendrika Geertruida Maria /Heijdelberger/|31 JAN 1894|Amsterdam|30 OCT 1976|Venlo|
+ppl/7/0/ef94d067d493f20fbec329b7607.html|Heijdelberger|Johanna Hendrica Maria /Heijdelberger/|15 OCT 1891||6 DEC 1939||
+ppl/f/f/ef94d067d494d6e432328d766ff.html|Heijdelberger|Maria Alphonsa /Heijdelberger/|1 DEC 1908||13 DEC 1975||
+ppl/b/2/ef94d067d4950ca6781844d142b.html|Heijdelberger|Henricus Ludovicus /Heijdelberger/|28 NOV 1862|Den Bosch|12 OCT 1946|Amsterdam|
+ppl/4/6/ef94d067d992f9f577f272c0164.html|Heins|Huibert /Heins/|||||
+ppl/f/b/ef94d067d9934de9c7df3b018bf.html|Hekkert|Maria /Hekkert/|29 JUL 1862|Olst|19 SEP 1896|Diepenveen|
+ppl/2/5/ef94d067d997741c85d6d184b52.html|Herstel|Bettina /Herstel/|||||
+ppl/d/a/ef94d067de92cede26c61c429ad.html|Herstel|Jan /Herstel/|||||
+ppl/0/3/ef94d067de9ee6d7247163f130.html|Herstel|Rene /Herstel/|||||
+ppl/d/5/ef94d067e3928f767e24d42ff5d.html|Herstel|Robert /Herstel/|||||
+ppl/b/3/ef94d067e393aeb5b86e73b83b.html|Hes|Grietje Frederiks /Hes/|||||
+ppl/b/d/ef94d067e893356260ab944bddb.html|Hijma|Tjipke Klazes /Hijma/|1793||||
+ppl/b/5/ef94d067e89652cf92f0c41955b.html|Hirdes|Carlos Gerardus Maria /Hirdes/||Oldenzaal|||
+ppl/6/3/ef94d067e897b6c99cd36c10236.html|Hesselink|Barbara /Hesselink/|27 OCT 1851|Zutphen|1 NOV 1905|Zutphen|
+ppl/4/b/ef94d067ef9428a162b83f852b4.html|Hirdes|Gerardus Johannes Marie /Hirdes/|24 JAN 1956|Oldenzaal|||
+ppl/1/c/ef94d067f0d3dba8b83b71148c1.html|Hirdes|Jacques Gerardus /Hirdes/|29 JAN 1923|Roermond|||
+ppl/3/4/ef94d067f2b3bafa479b3e43a43.html|Hirdes|Paulus Joseph Adrianus /Hirdes/|29 JAN 1958|Venlo|||
+ppl/a/0/ef94d067f4a3d73fbcf0cc0ac0a.html|Hirdes|Pim /Hirdes/|26 FEB 1984|Venlo|||
+ppl/f/7/ef94d067f68b0e18febfc2257f.html|Hirdes|Simone /Hirdes/|27 JAN 1986|Venlo|||
+ppl/8/4/ef94d067f87600b584912a41048.html|Hofstra|Arjen /Hofstra/|7 FEB 1989||||
+ppl/4/b/ef94d067fa555cebb15924878b4.html|Hofstra|Gerke /Hofstra/|30 MAY 1959||||
+ppl/9/5/ef94d067fba9eb162ffda0df59.html|Hofstra|Sjanine /Hofstra/|1 AUG 1990||||
+ppl/c/f/ef94d067fce5c50c865069723fc.html|Hollenga|Petrus Simons /Hollenga/|1811||||
+ppl/3/f/ef94d067fd815948de626a38df3.html|Holwerda|dochter 2 /Holwerda/|||||
+ppl/d/3/ef94d067fd84755eb813050aa3d.html|Holwerda|dochter 1 /Holwerda/|||||
+ppl/0/d/ef94d067fd854b8b037cdcdcd0.html|Unknown| /Unknown/|||||
+ppl/a/8/ef94d06807842f8a3ccbf430b8a.html|Holwerda|Harvey /Holwerda/|||||
+ppl/a/a/ef94d06807846893218c04c50aa.html|Holwerda|zoon 2 /Holwerda/|||||
+ppl/4/e/ef94d0680786f2c7e789572d4e4.html|Holwerda|zoon 1 /Holwerda/|||||
+ppl/c/b/ef94d068078750efc05264c45bc.html|Holwerda|zoon 3 /Holwerda/|||||
+ppl/7/4/ef94d0680c84565695c0a29f547.html|de Hoop|Jim of Sim /de Hoop/|||||
+ppl/1/e/ef94d0680c858c6db035337ce1.html|de Hoop|Nelson /de Hoop/|||||
+ppl/0/2/ef94d0680c85b92fb671e7b2620.html|de Hoop|James /de Hoop/|||||
+ppl/6/0/ef94d06811817fc6b14971f6206.html|de Hoop|Terry /de Hoop/|||||
+ppl/0/0/ef94d06811830fc05790d93f400.html|de Hoop|Timothy /de Hoop/|||||
+ppl/0/8/ef94d0681185895dea7ae941380.html|de Hoop|Randy /de Hoop/|||||
+ppl/3/9/ef94d068168239cc978016b1e93.html|Huisman|Jan /Huisman/|22 MAY 1937|Velp|||
+ppl/1/b/ef94d0681682bb723a82e5117b1.html|Houben|Maria Henriette Hermien /Houben/|9 DEC 1960|Venlo|||
+ppl/1/9/ef94d06816868a70eb5062ae91.html|Horstman|Hermina Cornelia /Horstman/|16 JAN 1827|Wijhe|28 APR 1883|Wierden|
+ppl/0/e/ef94d0681b82afa16a2da2475e0.html|Gijs Pieter Willem Huizinga| /Gijs Pieter Willem Huizinga/|1 JUN 2012|Schiedam (ziekenhuis)|||
+ppl/7/3/ef94d0681b82edd3db2691aac37.html|Huizinga|Albertus Theodorus /Huizinga/|4 JUN 1886|Zutphen|||
+ppl/5/3/ef94d0682087d42a5061621f935.html|Huizinga|Arend /Huizinga/|8 MAR 1884|Zutphen|||
+ppl/5/a/ef94d0682586899dc7aa94195a5.html|Huizinga|Ashley Anne /Huizinga/|15 JAN 1996||||
+ppl/1/6/ef94d0682586fdf096d1bec5f61.html|Huizinga|Cornelis Renses /Huizinga/|1805|Kantens|||
+ppl/e/1/ef94d068258b6052160750f21e.html|Huizinga|Brian Lee /Huizinga/|31 MAR 1981||||
+ppl/7/2/ef94d0682a82ea257dff4ccf27.html|Huizinga|David Lee /Huizinga/|7 MAY 1979||||
+ppl/2/3/ef94d0682a83d4ef98773885232.html|Huizinga|Daniel Lee /Huizinga/|12 AUG 1954|USA|||
+ppl/0/0/ef94d0682f83c5dc701406ac00.html|Huizinga|Frederick John /Huizinga/|13 JAN 1926||||
+ppl/0/9/ef94d0682f84faffb5f86409690.html|Huizinga|Geert Renses /Huizinga/|24 JUL 1851|Zutphen|||
+ppl/f/7/ef94d0682f85a98fa67ab431b7f.html|Huizinga|Femke /Huizinga/|9 DEC 1983|Maarssenbroek|||
+ppl/0/a/ef94d0682f87aad81b61bc248a0.html|Huizinga|Erin Marie /Huizinga/|15 JAN 1996||||
+ppl/7/e/ef94d06834821b2655cda438fe7.html|Huizinga|Gijs Pieter Willem /Huizinga/|1 JUN 2012|Schiedam (ziekenhuis)|||
+ppl/1/9/ef94d06834821ed6967fcb71391.html|Huizinga|Hendrikje /Huizinga/|27 APR 1874|Zutphen|||
+ppl/c/1/ef94d0683981f4d9905dcccfb1c.html|Huizinga|Jackson Philip /Huizinga/|23 OCT 1997||||
+ppl/e/7/ef94d0683987891400512be6e7e.html|Huizinga|Jack Alan /Huizinga/|5 AUG 1952|USA|||
+ppl/b/f/ef94d0683e87dc80d4d8523b2fb.html|Huizinga|Jan /Huizinga/|11 JAN 1889|Zutphen|25 JAN 1959|Amsterdam|
+ppl/6/4/ef94d068439464fa2b080a79c46.html|Huizinga|Jan Adriaan /Huizinga/|4 APR 1922|Deventer|30 AUG 2009|Maassluis|
+ppl/3/a/ef94d0684895849e7d9b5abf3a3.html|Huizinga|Kevin James /Huizinga/|3 AUG 1992||||
+ppl/e/c/ef94d06848968557277220d2dce.html|Huizinga|Janis Ruth /Huizinga/|7 NOV 1955|USA|||
+ppl/4/c/ef94d0684d839a0798fedcc26c4.html|Huizinga|Lubertus Frederik /Huizinga/|3 NOV 1875|Zutphen|||
+ppl/1/8/ef94d0684d87b9fdcadcd40fb81.html|Huizinga|Lindsay Ann /Huizinga/|13 JAN 1987||||
+ppl/8/6/ef94d0684d888cf39a92a82368.html|Huizinga|Maria Hermina /Huizinga/|28 OCT 1915|Deventer|1996|Zutphen|
+ppl/0/c/ef94d0685281fe1b13942f0b3c0.html|Huizinga|Marten /Huizinga/|8 APR 1880|Zutphen|1892|Zutphen|
+ppl/7/8/ef94d068528481597211ee0b187.html|Huizinga|Melissa Ann /Huizinga/|21 JUL 1977||||
+ppl/f/c/ef94d0685784963d21b4108f8cf.html|Huizinga|Olivia Lyn /Huizinga/|30 MAY 2002||||
+ppl/b/2/ef94d0685784b8e2dcbeb3b662b.html|Huizinga|Merel /Huizinga/|8 DEC 1988|Utrecht|||
+ppl/6/4/ef94d0685788b56aa2189a1846.html|Huizinga|Mila /Huizinga/|31 MAR 1991|Utrecht|||
+ppl/d/d/ef94d0685c930b5564fd31765dd.html|Huizinga|Pepijn /Huizinga/|19 NOV 1985|Maarssenbroek|||
+ppl/f/3/ef94d0685c9713cd2ddd61ab93f.html|Huizinga|Paul /Huizinga/|11 JUN 1950|Rotterdam|||
+ppl/b/5/ef94d0686684329533ef0ead05b.html|Huizinga|Peter /Huizinga/|6 AUG 1952|Maassluis|3 JUN 2003|De Meern|
+ppl/a/a/ef94d0686b823c5da26e3768aa.html|Huizinga|Rense Geert /Huizinga/|10 FEB 1877|Zutphen|||
+ppl/9/6/ef94d0686b844b2412c37555c69.html|Huizinga|Richard John /Huizinga/|18 JUL 1949|USA|||
+ppl/1/d/ef94d0686b87c833356506cfdd1.html|Huizinga|Rense /Huizinga/|21 OCT 1828|Groningen|||
+ppl/a/f/ef94d06872131b8c431458bc0fa.html|Huizinga|Ruth Ann /Huizinga/|29 NOV 1957|USA|||
+ppl/8/d/ef94d06874030f1aac098655fd8.html|Huizinga|Shannon Marie /Huizinga/|30 JUN 1982||||
+ppl/e/c/ef94d06875514f80b8344fa3fce.html|Huizinga|Sijmen Johan /Huizinga/|20 DEC 1878|Zutphen|||
+ppl/d/f/ef94d06877642a2007c0aafb4fd.html|Huizinga|Steven Alan /Huizinga/|23 SEP 1984||||
+ppl/0/7/ef94d068781397167e92a900870.html|Huizinga|Thijmen /Huizinga/|16 NOV 2009|Schiedam (ziekenhuis)|||
+ppl/0/0/ef94d06878157032e92586c8b00.html|Huizinga|Tom /Huizinga/|23 DEC 1954|Maassluis|||
+ppl/f/e/ef94d068781704cb16523926eef.html|Huizinga|Wouter /Huizinga/|10 OCT 1980|Vlaardingen|||
+ppl/c/a/ef94d0687d242c1ded6878060ac.html|Huizinga ??|Dalton Seraphin /Huizinga ??/|1 OCT 1998||||
+ppl/0/f/ef94d0687d265f3979a9f1dfaf0.html|Huizinga|Wynand /Huizinga/|7 APR 1986|Vlaardingen|||
+ppl/8/f/ef94d0688712f278121199c3af8.html|van 't Hul|Berend /van 't Hul/|||||
+ppl/8/4/ef94d0688717526102833492e48.html|van 't Hul|Willempje /van 't Hul/|7 JUN 1874|Kampen|6 JAN 1934|Almelo|
+ppl/e/4/ef94d0688c21ce19e57664bff4e.html|van Ingen|Daan /van Ingen/|||||
+ppl/4/1/ef94d0688c2498042a53d159914.html|van der Hulst|Janna /van der Hulst/|||||
+ppl/c/e/ef94d0688c24ca26d9d9587fcec.html|Hutcheson|Debra /Hutcheson/|9 NOV 1962||||
+ppl/0/9/ef94d0688c280786945eb04b90.html|Jacobs|Johannes /Jacobs/|||||
+ppl/2/b/ef94d0689123c4c25ff3de41cb2.html|Jacobs|Tjitske /Jacobs/|||25 SEP 1808|Nykerk|
+ppl/6/6/ef94d0689123e81ca6d2bf50966.html|Jansen|Melle Ale /Jansen/|||||
+ppl/1/a/ef94d068912c7989e3a0e84fa1.html|Jans|Antje /Jans/|6 JAN 1884|Tsjummearum|||
+ppl/a/a/ef94d06896110d84b98db937caa.html|Jason|Aubrey /Jason/|2 FEB 1945||9 MAR 2016||
+ppl/5/8/ef94d0689614051e3f69d336d85.html|Jellema|Metje Tjeerds /Jellema/|8 MAY 1797|Stappeling|3 FEB 1858|Franekeradeel|
+ppl/4/a/ef94d06896143f143ade0bc94a4.html|Jobs|Dirk /Jobs/|17 FEB 1771||||
+ppl/8/3/ef94d0689b14f5874631ba29c38.html|Jobs|Grietje /Jobs/|10 JAN 1776||||
+ppl/9/9/ef94d068a014368130d03d52f99.html|Jobs|Hiltje /Jobs/|16 FEB 1772||||
+ppl/c/b/ef94d068a016a0bbdd7283b11bc.html|Jobs|Meindert /Jobs/|19 JAN 1778||||
+ppl/0/6/ef94d068aa23be85be293bfe360.html|Jobs|Tjitske /Jobs/|20 SEP 1773||||
+ppl/2/0/ef94d068aa24d17641dca497a02.html|Jobs|Meinert /Jobs/|||||
+ppl/2/1/ef94d068aa2d6b3f0b69b16012.html|Jobs|Trintje /Jobs/|20 JAN 1783||||
+ppl/0/6/ef94d068af15b2b94f32dd42f60.html|de Jong|Aaltje /de Jong/|1 AUG 1881|Franeker|24 AUG 1881|Franeker|
+ppl/3/8/ef94d068af1678b9caf31c87783.html|Johannes|Ytske /Johannes/|||||
+ppl/d/b/ef94d068af1c849efaa1a76cbd.html|Johannes|Hyke /Johannes/|||15 SEP 1822|Ferwerderadeel|
+ppl/f/0/ef94d068b41122af5da9fb8460f.html|de Jong|Arianne /de Jong/|11 SEP 1987||||
+ppl/8/a/ef94d068b4132af05fe6ad50ca8.html|de Jong|Bram /de Jong/|16 MAR 1960||||
+ppl/e/8/ef94d068b413f8ec2f2d7c0e98e.html|de Jong|Bram Piter /de Jong/|28 MAR 1996||||
+ppl/8/3/ef94d068b9221f02587a43a8d38.html|de Jong|Femke /de Jong/|2 DEC 1962||||
+ppl/2/d/ef94d068b924873d670c6d83dd2.html|de Jong|douwe /de Jong/|15 MAR 1967||||
+ppl/d/c/ef94d068b925a3ac85d0486e5cd.html|de Jong|Fettje /de Jong/|||||
+ppl/c/6/ef94d068be1233c1087165e776c.html|de Jong|Greta /de Jong/|25 JAN 1988||||
+ppl/1/2/ef94d068c066f0a7ffa9ce9ea21.html|de Jong|Gretske /de Jong/|21 OCT 1961||||
+ppl/f/d/ef94d068c753b817d5a23266edf.html|de Jong|Hansina /de Jong/|3 MAY 1875|Franeker|||
+ppl/1/9/ef94d068c8b488fb0729bdda791.html|de Jong|Henderika /de Jong/|8 MAR 1877|Franeker|||
+ppl/4/f/ef94d068cab2f56a5f3ad0165f4.html|de Jong|Hiltje /de Jong/|17 JUL 1872|Franeker|4 APR 1952|Amsterdam|
+ppl/3/0/ef94d068ccb48293f26dfbfec03.html|de Jong|Hiltje /de Jong/|16 JUN 1868|Franeker|12 JUL 1868|Franeker|
+ppl/8/6/ef94d068cf6291cae75f1b56468.html|de Jong|Hiltje /de Jong/|14 JUN 1871|Franeker|16 JAN 1872|Franeker|
+ppl/5/6/ef94d068cf638251fc309498f65.html|de Jong|Hiltje /de Jong/|9 OCT 1869|Franeker|22 JAN 1870|Franeker|
+ppl/8/b/ef94d068d477384b3b750f9adb8.html|de Jong|Janneke /de Jong/|25 MAY 1999||||
+ppl/2/3/ef94d068d47a1d66e5463b5732.html|de Jong|Jelma /de Jong/|12 AUG 1961||||
+ppl/c/2/ef94d068d47e44f81d7e6de32c.html|de Jong|Idske /de Jong/|30 JAN 1866|Franeker|||
+ppl/2/7/ef94d068d9626eaca59c105e772.html|de Jong|Jetske Ynzes /de Jong/|||||
+ppl/3/1/ef94d068d9635f51f04a50f8913.html|de Jong|Jitse /de Jong/|23 JAN 1931|Franeker|||
+ppl/b/b/ef94d068d96491a48b97d4aa1bb.html|de Jong|Jitse /de Jong/|20 NOV 1985||||
+ppl/4/1/ef94d068de614365eb8fca2df14.html|de Jong|Jitze /de Jong/|19 MAY 1989||||
+ppl/1/0/ef94d068de61e21441d185a9701.html|de Jong|Jitse Rimmert /de Jong/|3 SEP 2001||||
+ppl/3/5/ef94d068de64c50403c12ab0f53.html|de Jong|Maaike /de Jong/|21 MAY 1879|Franeker|13 FEB 1886|Franeker|
+ppl/6/9/ef94d068e8612e222964d2aef96.html|de Jong|Marcus D /de Jong/|16 APR 1935||||
+ppl/9/5/ef94d068e861f60b0cee9f7b59.html|de Jong|Margreet /de Jong/|27 JAN 1955||||
+ppl/c/d/ef94d068e8676d28c953dc0f4dc.html|de Jong|Marcus /de Jong/|29 APR 1991||||
+ppl/e/3/ef94d068ed616fe059de57a753e.html|de Jong|Rimmert /de Jong/|3 JAN 1956||||
+ppl/3/a/ef94d068ed64331c403d8ad9aa3.html|de Jong|Mintje Hanzes /de Jong/|7 JAN 1839|Franeker|||
+ppl/e/4/ef94d068ed665060d684871874e.html|de Jong|Marit-Jeliena /de Jong/|4 JUL 1993||||
+ppl/d/0/ef94d068f262153c26bb894880d.html|de Jong|Ruurd Gerrit /de Jong/|5 JUN 1966||||
+ppl/9/b/ef94d068f2623766079696207b9.html|de Jong|Sanne-Floor /de Jong/|20 JUN 1991||||
+ppl/0/a/ef94d068f2650e72e7c39100aa0.html|de Jong|Simke /de Jong/|12 FEB 1958||||
+ppl/5/b/ef94d068f267e66b7c6c4ad74b5.html|de Jong|Rimmert /de Jong/|29 JUN 1991||||
+ppl/5/2/ef94d068f761701e06a379e2225.html|de Jong|Simke /de Jong/|29 MAY 1969||||
+ppl/1/e/ef94d068f76293ea6b34112e0e1.html|Jongbloed|Johanness /Jongbloed/|||||
+ppl/d/f/ef94d068f763a6db46f5226a5fd.html|Jongbloed|Uilkje /Jongbloed/|20 DEC 1858|Blokzijl|4 NOV 1947|Kampen|
+ppl/c/7/ef94d068f76424c79d3840d4a7c.html|de Jong|Wijke /de Jong/|||||
+ppl/b/f/ef94d068fc63d6a680266dfbdfb.html|Jonker|Gea /Jonker/|||||
+ppl/e/1/ef94d068fc65746694dea9f331e.html|Jorritsma|Petrus Theodorus /Jorritsma/|19 DEC 1892|Leeuwarden|15 MAR 1970|Venray|
+ppl/8/f/ef94d0690168fc3e007fbbaef8.html|Jorritsma|Saakje Theresia /Jorritsma/|28 AUG 1935|Amsterdam|||
+ppl/f/8/ef94d0690661f35689d356f8c8f.html|Joustra|Bauke Joukes /Joustra/|6 MAR 1804|Ried|30 JUL 1879|Ried|
+ppl/8/4/ef94d0690b72b3027ab72eb6848.html|Joustra|Fetje /Joustra/|24 FEB 1826|Mealdumadeel|||
+ppl/4/f/ef94d0690b73953eb38034b88f4.html|Joustra|Jouke /Joustra/|26 AUG 1830|Bied|||
+ppl/e/5/ef94d0690b75e45a2fa1e7b745e.html|Joustra|Jonkje /Joustra/|1826|Schingen|||
+ppl/2/5/ef94d0691061e48ebb4a5d0eb52.html|Joustra|Tjitske Baukes /Joustra/|26 JAN 1829|Schingen|15 APR 1890|Franeker|
+ppl/7/b/ef94d0691064f0d8f801586dfb7.html|Joustra|Joukje /Joustra/|21 NOV 1827|Menaldumadeel|10 JAN 1858||
+ppl/8/7/ef94d069156364a77983203ea78.html|van Kampen|Alexandra Charlotte /van Kampen/|2 MAY 1988|Haarlem|||
+ppl/5/5/ef94d0691565535664fc7833e55.html|van Kampen|Bas Derk /van Kampen/|26 JUN 1950|Groningen|||
+ppl/4/f/ef94d0691a625b1ce7b7b277ef4.html|van Kampen|Femke Johanna /van Kampen/|19 JUL 1978|Maassluis|||
+ppl/4/2/ef94d0691a6363847f74ae76824.html|van Kampen|Fiona Minnie /van Kampen/|22 FEB 1977|Vlaardingen|||
+ppl/0/9/ef94d0691f62b4bdcda545d4e90.html|Kamphorst|Gretha Gerda /Kamphorst/|||||
+ppl/2/4/ef94d0691f666e5324f4374742.html|Kaptein|Michelle Marie /Kaptein/|9 NOV 1976||||
+ppl/3/0/ef94d0691f66a53644523f48703.html|Kaptein|Carolyn /Kaptein/|23 JAN 1956||||
+ppl/c/8/ef94d0691f68cdb540c404ad8c.html|Keiser|Dirk /Keiser/|||||
+ppl/e/8/ef94d069296162108a11384008e.html|Kempen|Elsje /Kempen/|||||
+ppl/9/1/ef94d06929625f5291f32323019.html|Keiser|Elly Margaretha /Keiser/|8 JUL 1915|Zutphen|||
+ppl/b/3/ef94d0692965605b6f393786e3b.html|Keizer|Maria /Keizer/|||||
+ppl/2/5/ef94d069296b6864bd28ceeb52.html|Keizer|Annelies /Keizer/|||||
+ppl/b/3/ef94d0692e633268c9727ea773b.html|Kiezenbrink|Aaltje /Kiezenbrink/|13 JUL 1906||||
+ppl/1/f/ef94d0692e6482881264b5a0af1.html|Kiezenbrink|Hendrik /Kiezenbrink/|28 JAN 1829|Zwolle(rkerspel)|3 MAY 1911|Wierden|
+ppl/6/b/ef94d0692e6e526f34badfb4b6.html|Kiezenbrink|Egbert Jan /Kiezenbrink/|17 OCT 1926|Deventer|||
+ppl/2/7/ef94d0693363823cfe762611372.html|Kiezenbrink|Hendrikus /Kiezenbrink/|17 NOV 1857|Wijhen|||
+ppl/2/6/ef94d06933638c4ff2262b2f762.html|Kiezenbrink|Jan /Kiezenbrink/|24 FEB 1860|Wierden|9 APR 1951|Deventer|
+ppl/5/0/ef94d069336579b5b6fdc961e05.html|Kiezenbrink|Hendrika Maria /Kiezenbrink/|31 JAN 1929|Deventer|||
+ppl/a/2/ef94d069387175ca3c46fe042a.html|Kiezenbrink|Jan /Kiezenbrink/|10 AUG 1892|Diepenveen|30 AUG 1971|Deventer|
+ppl/e/3/ef94d0693871965d240a53553e.html|Kiezenbrink|Jan /Kiezenbrink/|26 SEP 1923|Deventer|||
+ppl/3/c/ef94d0693d71dadc54470bed2c3.html|Kiezenbrink|Johan /Kiezenbrink/|10 FEB 1901|Deventer|9 NOV 1963|Deventer|
+ppl/5/d/ef94d0693d75312d2ffcdb664d5.html|Kiezenbrink|Jansje /Kiezenbrink/|17 MAY 1902|Deventer|23 JUL 1978|Deventer|
+ppl/3/c/ef94d0694277f87dc0be3b9cc3.html|Kiezenbrink|Maria /Kiezenbrink/|11 SEP 1862|Wierden|||
+ppl/0/1/ef94d0694764ac455e92e003810.html|Kiezenbrink|Maria Hermina /Kiezenbrink/|20 MAR 1889|Diepenveen|1 OCT 1974|Amsterdam|
+ppl/e/7/ef94d0694d4352faaeddb25e67e.html|Kiezenbrink|Sientje /Kiezenbrink/|12 JUN 1904|Deventer|||
+ppl/9/5/ef94d0694f37083e6e2955c2a59.html|Kiezenbrink|Wichem /Kiezenbrink/|||||
+ppl/1/9/ef94d0694fd69ac14c0c9253791.html|Kiezenbrink|Wichem /Kiezenbrink/|28 NOV 1869|Wierden|20 DEC 1870|Wierden|
+ppl/a/f/ef94d069527735254b1245ee9fa.html|Kiezenbrink|Willem /Kiezenbrink/|8 OCT 1864|Wierden|||
+ppl/5/1/ef94d06953c21fd8d60a74f4c15.html|Kooiker|Hilda /Kooiker/|||||
+ppl/f/b/ef94d06953c43fa230b1471b6bf.html|Klahn|Jennifer Lynn /Klahn/|21 OCT 1972|USA|||
+ppl/6/7/ef94d06953c4ebbd31f5d36a176.html|Klomp|Hiemstra Herre /Klomp/|||||
+ppl/8/7/ef94d06953ce31997ec33678.html|Kooistra|Rienk Folkerts /Kooistra/|1793||||
+ppl/7/3/ef94d06959d283c93f7a340d737.html|Koolschijn|Johanna Louise Mathilda /Koolschijn/|15 SEP 1950|Den Haag|||
+ppl/c/0/ef94d06959d64dd7979d5235c0c.html|Kooistra|Rixtje /Kooistra/|1806|Pietersbierum|31 OCT 1843|Franeker|
+ppl/a/6/ef94d0695ed103c71d03a72676a.html|Koster|Maaike /Koster/|10 MAR 1842|Franeker|4 AUG 1902|Franeker|
+ppl/0/e/ef94d0695ed11928de1b81bd1e0.html|Kraak|Wilhelmina Maria /Kraak/|4 SEP 1953|Harskamp|||
+ppl/9/b/ef94d0695ed6598176788ebebb9.html|Koopmans|Anna /Koopmans/|||||
+ppl/c/f/ef94d06968d1652a1d3cdead1fc.html|Kruys|Barbara /Kruys/|||||
+ppl/8/3/ef94d06968d40a680c036245738.html|Kruys|Anneke /Kruys/|25 MAY 1932|Rotterdam|||
+ppl/d/d/ef94d0696dd359d7393eb1040dd.html|Kruys|Gerard /Kruys/|17 JUL 1936|Rotterdam|||
+ppl/1/0/ef94d0696dd3fe4040340b52101.html|Kruys|Esther Mariola /Kruys/|13 JUN 1978|Rotterdam|||
+ppl/6/4/ef94d0696dd66263084e18f9a46.html|Kruys|Hendrika Elizabeth /Kruys/|31 OCT 1933|Rotterdam|||
+ppl/b/2/ef94d06972d419efdde27a5992b.html|Kruys|Johannes Petrus /Kruys/|15 AUG 1950|Rotterdam|||
+ppl/9/6/ef94d06972d6848b7a81de17169.html|Kruys|Johannes Petrus /Kruys/|5 JAN 1906|Rotterdam|19 MAR 1979|Rotterdam|
+ppl/2/5/ef94d06977d26169cc1066a3252.html|Kruys|John Pieter /Kruys/|5 SEP 1964||||
+ppl/1/0/ef94d06977d361916934bce0401.html|Kruys|Martine Jolanda /Kruys/|14 SEP 1974|Rotterdam|||
+ppl/7/3/ef94d0697cd41f992e053a8d237.html|Kruys|Tamara Ann /Kruys/|||||
+ppl/0/3/ef94d0697cd70c0ccd6dde3030.html|Kruys|Peter Jonathan /Kruys/|3 MAY 1984|Rotterdam|||
+ppl/0/a/ef94d0697cd76369f3193ca43a0.html|Kruys|Tinneke /Kruys/|7 SEP 1938|Hillegersberg|||
+ppl/b/2/ef94d06981d36c3bb8801f5672b.html|Kruys|Wilhelmina Johanna /Kruys/|14 MAY 1946|Rotterdam|||
+ppl/e/2/ef94d06986e59a2836caf66782e.html|Kuiper|Beth Ann /Kuiper/|30 JAN 1982||||
+ppl/7/b/ef94d0698bd5375fb5de1fc34b7.html|Kuiper|Daryle Lee /Kuiper/|12 MAY 1951||||
+ppl/f/f/ef94d0698bd69f55591152641ff.html|Kuiper|Brent Allen /Kuiper/|7 MAY 1976||||
+ppl/6/1/ef94d0698bdfb0c8e53d669d16.html|Kuiper|Bradley Steven /Kuiper/|17 JUN 1978||||
+ppl/c/e/ef94d06990e3636b46df3adf3ec.html|Kuiper|Lillian Ruth /Kuiper/|12 MAY 2002||||
+ppl/2/2/ef94d06990e68d21d183a339722.html|Kuiper|Derek John /Kuiper/|16 MAR 1987||||
+ppl/d/9/ef94d06990e6bb75e1a1a264c9d.html|Kuiper|Dawn Marie /Kuiper/|22 MAY 1980||||
+ppl/a/5/ef94d06995d3af67e190320d25a.html|Kuipers|Grietje /Kuipers/|26 FEB 1795||26 JAN 1843|Menaldumadeel|
+ppl/f/2/ef94d06995d62dc01acbc17382f.html|Kuiper|Rebecca Ruth /Kuiper/|14 JUN 1977||||
+ppl/e/a/ef94d0699bb22e0bb9cfe29abae.html|Kuipers|Jan /Kuipers/|4 MAR 1797|Welsrijp|||
+ppl/e/8/ef94d0699bb2aeea80323f0a38e.html|Kuipers|Jan /Kuipers/|1796|Welsrijp|20 OCT 1796|Welsrijp|
+ppl/a/3/ef94d0699bb59e0f239d5fe6d3a.html|Kuipers|Maaike /Kuipers/|1843|Zweins|||
+ppl/f/9/ef94d069a0b38f2e28f5597b49f.html|Kuipers|Ruurd /Kuipers/|4 APR 1862|Franekeradeel|||
+ppl/3/3/ef94d069a0b511b0014d71b4733.html|Kuipers|Metje /Kuipers/|16 APR 1858|Tsjummeradeel|28 FEB 1941|Franeker|
+ppl/d/d/ef94d069aab3345f6da9dfd17dd.html|Kuipers|Ruurd /Kuipers/|14 MAR 1800|Tzum|5 APR 1858|Menaldumadeel|
+ppl/5/4/ef94d069afb4c08855a50265745.html|Kuipers|Sikke Ruurds /Kuipers/|3 JAN 1831|Hennaarderadeel|22 OCT 1880|Franeker|
+ppl/b/f/ef94d069afb5f8c395e9dfdb4fb.html|Kuipers|Sikke /Kuipers/|24 DEC 1824|Hennaarderadeel|||
+ppl/6/7/ef94d069b4b19f7a5f8798a5076.html|Kuipers|Ynze /Kuipers/|1839|Zweins|14 MAY 1863||
+ppl/c/4/ef94d069b4b609bb718da54334c.html|Kuipers|Sikken /Kuipers/|||||
+ppl/9/2/ef94d069b9b278a85b08a83e729.html|Unknown| /Unknown/|||||
+ppl/d/7/ef94d069b9b4033bb9411206f7d.html|Kuurstra|Aukje /Kuurstra/|7 DEC 1856|Franeker|||
+ppl/1/e/ef94d069b9b53bf3da8b8029e1.html|Kuurstra|Bauke Johannes /Kuurstra/|4 MAR 1825||BEF 1887||
+ppl/7/1/ef94d069b9b61284afa15a4fa17.html|Kuurstra|Dirk /Kuurstra/|4 OCT 1851|Franeker|||
+ppl/9/3/ef94d069beb159a10fecd23b939.html|Kuurstra|Gosina /Kuurstra/|3 JAN 1861|Franeker|||
+ppl/1/b/ef94d069beb21a39450407fdbb1.html|Kuurstra|Gosina /Kuurstra/|10 MAY 1865|Franeker|||
+ppl/3/b/ef94d069beb5efd4ad4a68008b3.html|Kuurstra|Froukje /Kuurstra/|3 JAN 1861|Franeker|||
+ppl/3/e/ef94d069c3b186500f8952052e3.html|Kuurstra|Johannes /Kuurstra/|3 MAY 1849|Franeker|||
+ppl/8/b/ef94d069c3b373095e626d10b8.html|Kuurstra|Johannes /Kuurstra/|27 MAR 1854|Franeker|||
+ppl/e/9/ef94d069cdb1ce15a82be71149e.html|Kuurstra|Johannes Baukes /Kuurstra/|||||
+ppl/3/4/ef94d069cdb28204395abd2db43.html|Kuurstra|Jorritje /Kuurstra/|23 SEP 1868|Franeker|||
+ppl/6/a/ef94d069cdb32cd6c3d5df3c1a6.html|Kuurstra|Klaske /Kuurstra/|10 DEC 1858|Franeker|||
+ppl/f/d/ef94d069cdb572d2b9472ac8edf.html|Lautenbach|Rinskje /Lautenbach/|||||
+ppl/c/7/ef94d069d2b3a58083a98ea8c7c.html|van Lente|Charmaine /van Lente/|28 MAR 1967||||
+ppl/5/e/ef94d069d2b7e6752a540ac37e5.html|van Loon| /van Loon/|24 AUG 1892|Franeker(?)|24 AUG 1892|Franeker(?)|
+ppl/3/7/ef94d069d7b2954d2bce6a86a73.html|van Loon| /van Loon/|1 JUL 1867|Barradeel|1 JUL 1867|Barradeel|
+ppl/0/c/ef94d069d7b5f38a06f4090d6c0.html|van Loon| /van Loon/|16 JUN 1887|Franeker(?)|16 JUN 1887|Franeker(?)|
+ppl/e/c/ef94d069dcb6c53dec13ee786ce.html|van Loon| /van Loon/|15 APR 1895|Harlingen|15 APR 1895|Harlingen|
+ppl/f/e/ef94d069e1b28f15aa938d25ef.html|van Loon|Age /van Loon/|20 DEC 1859|Oosterbierum/Barradeel|26 OCT 1936|Leeuwarden|
+ppl/f/0/ef94d069e1b2baf81bdd3d0d00f.html|van der Loon|Abigail /van der Loon/|3 NOV 1976|Emmen|||
+ppl/4/e/ef94d069e6b27a94fb6cddfb8e4.html|van Loon|Age /van Loon/|26 JAN 1878|Franeker|||
+ppl/3/8/ef94d069ebc151c52f4aff95f83.html|van der Loon|Albertje Jacobs /van der Loon/|8 APR 1859|Franeker|22 APR 1859|Franeker|
+ppl/b/7/ef94d069ebc2ade2c997e4f0e7b.html|van der Loon|Akke /van der Loon/|15 OCT 1936|Franeker|||
+ppl/1/e/ef94d069f0c733741351b49dfe1.html|van der Loon|Anita /van der Loon/|24 MAR 1963|Amsterdam|||
+ppl/f/6/ef94d069f5b185b6a48ea2ce76f.html|van der Loon|Anna /van der Loon/|25 JUN 1864|Franeker|||
+ppl/7/0/ef94d069f5b1ebc7788bb4fad07.html|van der Loon|Anna /van der Loon/|18 DEC 1902|Franeker|4 MAR 1985|Rotterdam|
+ppl/c/f/ef94d069fab3b7cec57c86b1afc.html|van der Loon|Anna Leuntje Margaretha /van der Loon/|2 FEB 1932|Purworedjo|22 JAN 1999||
+ppl/0/2/ef94d069fab6ec78441ef048f20.html|van der Loon|Anna /van der Loon/|13 AUG 1951|Idaard|||
+ppl/c/e/ef94d069ffb694b36376a60d7ec.html|Unknown| /Unknown/|||||
+ppl/b/6/ef94d069ffb7cff952c9b5ae96b.html|van der Loon|Anneke /van der Loon/||?Lemmer|||
+ppl/d/4/ef94d069ffbb14753f7f01c64d.html|van der Loon|Anne /van der Loon/|27 DEC 1838|Franeker|8 MAR 1917|Franeker|
+ppl/0/a/ef94d06a04b28077307fe12aba0.html|van der Loon|Ans /van der Loon/|||||
+ppl/5/1/ef94d06a04b7e29c323075cae15.html|van der Loon|Antje /van der Loon/|11 JUL 1932|Franeker|||
+ppl/8/8/ef94d06a0eb2f2724b4520e2788.html|van der Loon|Astrid /van der Loon/|||||
+ppl/5/2/ef94d06a0eb32e674f6bd5bd825.html|van Loon|Auke /van Loon/|25 FEB 1866|Barradeel|16 MAR 1867|Barradeel|
+ppl/f/0/ef94d06a0eb4ffcf68f8016ed0f.html|van Loon|Antje /van Loon/|21 OCT 1832|Beetgum|||
+ppl/a/f/ef94d06a13b1dae6276f3aa28fa.html|van Loon|Aukje /van Loon/|28 AUG 1858|Barradeel|22 SEP 1858|Barradeel|
+ppl/2/9/ef94d06a18b2968226483c58592.html|van der Loon|Barteltje /van der Loon/|16 MAR 1907|Franeker|10 SEP 1996|Rotterdam|
+ppl/e/1/ef94d06a18b37d8c660f214211e.html|van der Loon|Aukje Jacobs /van der Loon/|8 APR 1859|Franeker|21 JUN 1859|Franeker|
+ppl/c/1/ef94d06a1db3d915a83acbca41c.html|van der Loon|Bauke /van der Loon/|4 JUL 1891|Franeker|||
+ppl/9/5/ef94d06a1db6610d41116221059.html|van der Loon|Bauke /van der Loon/|1 JUN 1957|Roordahuizen|||
+ppl/f/4/ef94d06a22b61ef32ab77dc2b4f.html|Unknown| /Unknown/|||||
+ppl/0/3/ef94d06a22b6ee52631902ae630.html|van der Loon|Berendt /van der Loon/|7 FEB 1809|Nijkerk|||
+ppl/c/4/ef94d06a27b4dcec2ba6d9bfa4c.html|van der Loon|Bertus /van der Loon/|21 DEC 1905|Si Parok - Tapanoeli|||
+ppl/5/6/ef94d06a2cb3e88ce81c9517165.html|van der Loon|Bets /van der Loon/|||||
+ppl/0/3/ef94d06a2cb64defadda9491230.html|van der Loon|Bram /van der Loon/|15 AUG 1996||||
+ppl/e/8/ef94d06a31b4d711c0d6465408e.html|van der Loon|Daan /van der Loon/|||||
+ppl/e/5/ef94d06a31b512b45cf470e955e.html|van der Loon|Clint /van der Loon/|19 APR 1976|Geraldton|||
+ppl/d/b/ef94d06a36b4a53af6386a978bd.html|van der Loon|David /van der Loon/|||||
+ppl/6/d/ef94d06a36b620852b1c7b71fd6.html|van der Loon|Daniel Wouter Frank /van der Loon/|||||
+ppl/8/0/ef94d06a36bbe37b059f09c708.html|van der Loon|Danny /van der Loon/|||||
+ppl/6/0/ef94d06a3bb26776eca2a87d406.html|van Loon|Dirk /van Loon/|7 FEB 1880|Hennaarderadeel|3 APR 1896|Harlingen|
+ppl/7/f/ef94d06a3bb799706226e6a77f7.html|van der Loon|Dino /van der Loon/|||||
+ppl/c/b/ef94d06a40b1ec6a1c7dc0a35bc.html|van der Loon|Dirk /van der Loon/|10 SEP 1845|Franeker|||
+ppl/2/a/ef94d06a40b2470d251784b94a2.html|van Loon|Dirk /van Loon/|29 JUL 1896|Harlingen|||
+ppl/a/0/ef94d06a45b1275f4cba008f50a.html|van der Loon|Dirk /van der Loon/|6 DEC 1868|Franeker|25 DEC 1868|Franeker|
+ppl/2/8/ef94d06a4fb193a238e3f9b7582.html|van der Loon|Dirk /van der Loon/|2 NOV 1875|Franeker|||
+ppl/5/f/ef94d06a4fb5984d76b157db5f5.html|van der Loon|Dirk /van der Loon/|16 OCT 1892|Franeker|3 SEP 1893|Franeker|
+ppl/a/7/ef94d06a54b6c55fad40051ab7a.html|van der Loon|Dirk /van der Loon/|24 OCT 1896|Franeker|26 OCT 1975|USA|
+ppl/f/3/ef94d06a59b199490774f3ce93f.html|van der Loon|Dirk /van der Loon/|5 MAY 1899|Franeker|||
+ppl/a/c/ef94d06a59b3f1acfeabdf5e6ca.html|van Loon|Dirk /van Loon/|16 NOV 1874|Franekeradeel|27 AUG 1916|Franeker|
+ppl/8/5/ef94d06a5eb3ef89707bad06558.html|van der Loon|Dirk Jacobs /van der Loon/|29 MAY 1873|Franeker|5 JUL 1873|Franeker|
+ppl/b/c/ef94d06a63b24e91a85e0beb9cb.html|van der Loon|Dirk Pieters /van der Loon/|1846||18 MAR 1863|Franeker|
+ppl/0/0/ef94d06a63b574b53c14175c900.html|van Loon|Dirk Pieters /van Loon/|9 APR 1822|Marrum/Ferwerderadeel|9 APR 1903|Barradeel|
+ppl/f/c/ef94d06a695128e13d992f2f4cf.html|van der Loon|dochter /van der Loon/|||||
+ppl/8/3/ef94d06a6aa2bdcdc61cc4c0a38.html|van der Loon|Doetje /van der Loon/|3 NOV 1881|Franeker|||
+ppl/f/7/ef94d06a73c1e2c8302b0a32f7f.html|van der Loon|Durck Eeltjes /van der Loon/|1768|Westernykerk a/d Zee|18 FEB 1845|Nykerk/ Ferwerderadeel|
+ppl/1/1/ef94d06a77b6fe11b2605e68811.html|van der Loon|E /van der Loon/|||||
+ppl/7/c/ef94d06a7855774db4e0ab566c7.html|van der Loon|Edwin Cornelis Jacob /van der Loon/|16 JUL 1969|Amsterdam|||
+ppl/1/d/ef94d06a78582c474dc944a0d1.html|van der Loon|Eeltje /van der Loon/|4 DEC 1841|Franeker|11 JAN 1923|Kediri|
+ppl/7/8/ef94d06a7d530326cd7a3eb1f87.html|van Loon|Eeltje Jacobs /van Loon/|1802|Nijkerk|22 NOV 1845|Mealdumadeel|
+ppl/1/4/ef94d06a825169b19cc03f7c941.html|van der Loon|Eeltje Pieters /van der Loon/|1802||26 MAY 1828|Ferwerderadeel|
+ppl/2/0/ef94d06a825175812f0e3393602.html|van der Loon|Elisa /van der Loon/|24 APR 1888|Franeker|8 FEB 1963|Vlaardingen|
+ppl/e/6/ef94d06a875680cf6a43a4a9e6e.html|van der Loon|Elisabeth /van der Loon/|4 NOV 1834|Franeker|5 JAN 1892|Franeker|
+ppl/5/7/ef94d06a8c57cb5f964ded98b75.html|van der Loon|Elisabeth Cornelia /van der Loon/|7 JUL 1935|Purworedjo|1 MAR 2016||
+ppl/7/c/ef94d06a915165cf4f2f517e1c7.html|van der Loon|Eric /van der Loon/|5 MAY 1968|Harderwijk|||
+ppl/f/8/ef94d06a9651c81b23a49727a8f.html|van der Loon|Famke /van der Loon/|21 JUN 1987|Nijmegen|||
+ppl/2/8/ef94d06a9656dc74bd0a48d4f82.html|van Loon|Feikje /van Loon/|11 SEP 1891|Harlingen|14 MAR 1892|Harlingen|
+ppl/5/d/ef94d06a9b72155f1aad0b514d5.html|van Loon|Feikje /van Loon/|9 MAR 1894|Harlingen|||
+ppl/5/3/ef94d06a9b74356c27896ea4a35.html|van der Loon|Femke /van der Loon/|23 DEC 1999|Harderwijk|||
+ppl/1/d/ef94d06aa071c994799f8a508d1.html|van der Loon|Frank /van der Loon/|||||
+ppl/1/5/ef94d06aa0747f8f88e68d11751.html|van der Loon|Frans /van der Loon/|6 JUN 1940|Gouda|||
+ppl/5/a/ef94d06aa0775d948b0052027a5.html|van Loon|Frans Dirk /van Loon/|18 MAR 1942|Amsterdam|||
+ppl/7/0/ef94d06aa57522a82dff248d107.html|van der Loon|Gepke /van der Loon/|27 SEP 1928|Franeker|||
+ppl/d/1/ef94d06aa57f88889db317f61d.html|van der Loon|Froukje /van der Loon/|17 NOV 1985|Nijmegen|||
+ppl/e/d/ef94d06aaa71475dd10d84a60de.html|van der Loon|Gesina /van der Loon/|4 JUN 1888|Franeker|||
+ppl/9/5/ef94d06aaa768e0d08edf25e659.html|van der Loon|Gerben /van der Loon/|26 DEC 1965|Drachten|||
+ppl/d/a/ef94d06ab47457597d09f781cad.html|van der Loon|Grietje /van der Loon/||?Lemmer|||
+ppl/b/4/ef94d06ab47678d25a8c45c514b.html|van der Loon|Grietje /van der Loon/|19 NOV 1879|Franeker|||
+ppl/9/9/ef94d06ab476f1b492f221eaa99.html|van der Loon|Gijs /van der Loon/|||||
+ppl/d/c/ef94d06ab972290a31fda508dcd.html|van Loon|Hans /van Loon/|14 SEP 1885|Harlingen|13 JUN 1898|Harlingen|
+ppl/3/d/ef94d06ab9735e8642735a956d3.html|van der Loon|Grietje /van der Loon/|8 JUN 1904|Franeker|8 APR 2000|Potchefstroom (Zuid Afrika)|
+ppl/1/f/ef94d06ac15108163dfaf31b5f1.html|van der Loon|Haring /van der Loon/|28 JUL 1921|Rotterdam|26 APR 1996|Warga|
+ppl/c/4/ef94d06ac40668dad7ac9d5c44c.html|van der Loon|Hendrika Johanna Maria /van der Loon/|10 JUL 1957|Deventer|||
+ppl/1/a/ef94d06ac5f13267ba402c71ca1.html|van der Loon|Hieke /van der Loon/|1808|Marrum|27 MAY 1860|Ferwerderadeel|
+ppl/a/4/ef94d06ac5f21e32f515b48fa4a.html|van der Loon|Herman /van der Loon/|2 JAN 1884|Bangkalari (Madoera)|||
+ppl/9/4/ef94d06acaf7213dddb6bb8bb49.html|van Loon|Hilda Mathilde /van Loon/|1 FEB 1947|Amsterdam|||
+ppl/e/7/ef94d06acff7f78a9170f47cb7e.html|van der Loon|Ida /van der Loon/|17 AUG 1889|Franeker|9 SEP 1889|Franeker|
+ppl/f/6/ef94d06ad4f558d99269d391d6f.html|van der Loon|Ida /van der Loon/|22 AUG 1895|Franeker|||
+ppl/1/a/ef94d06ad9f1b8e3a74fe7d4ca1.html|van der Loon|Ida /van der Loon/|||||
+ppl/3/1/ef94d06ad9f40d939b6ac563a13.html|van Loon|Jacob /van Loon/|8 DEC 1815|Harlingen|||
+ppl/c/5/ef94d06ad9f449557e21b60f05c.html|van der Loon|Ineke /van der Loon/|||||
+ppl/f/e/ef94d06adef57e779dd7543ceef.html|van Loon|Jacob /van Loon/|25 NOV 1861|Barradeel|31 AUG 1926|Oosterbierum|
+ppl/f/1/ef94d06ae3f19060272ea5411f.html|van der Loon|Pieter /van der Loon/|3 MAY 1862|Franeker|11 OCT 1928|Franeker|
+ppl/a/8/ef94d06ae3f54ce2b401b2d2d8a.html|van der Loon|Jacob /van der Loon/|23 MAY 1832|Franeker|26 APR 1890|Franeker|
+ppl/a/e/ef94d06ae3f611dd769644832ea.html|van der Loon|Jacob /van der Loon/|11 APR 1890|Franeker|2 FEB 1976||
+ppl/9/9/ef94d06ae8f29df83e341a93a99.html|van der Loon|Jacob /van der Loon/|29 NOV 1944|Harderwijk|||
+ppl/8/0/ef94d06ae8f63d76786ff225308.html|van der Loon|Jacob /van der Loon/|27 APR 1925|Franeker|||
+ppl/d/e/ef94d06af2f10b7380f1350f3ed.html|van der Loon|Jacob /van der Loon/|25 OCT 1934|Amsterdam|||
+ppl/d/8/ef94d06af2f5cd4a1a7ab7ca48d.html|van der Loon|Jacob /van der Loon/|15 JAN 1939|Amsterdam|||
+ppl/6/6/ef94d06af7f2b3f9c14b03a2566.html|van Loon|Jacob /van Loon/|28 APR 1830|Beetgum|||
+ppl/0/c/ef94d06afcf73f31898e6a391c0.html|van Loon|Jacob Eeltjes /van Loon/|20 SEP 1770|Marrum|22 MAY 1840|St. Annaparochie/ Het Bildt|
+ppl/e/2/ef94d06b01f24fc6d87aee1422e.html|van der Loon|Jacq Carter /van der Loon/|||||
+ppl/1/1/ef94d06b01f45c1ea4f2e5eaa11.html|van Loon|Jan /van Loon/|26 APR 1890|Harlingen|4 APR 1892|Harlingen|
+ppl/c/f/ef94d06b01f691d4e2d7a5c41fc.html|van Loon|Jaike /van Loon/|1 NOV 1834|Beetgum|||
+ppl/4/4/ef94d06b06f36e4e996919fae44.html|van Loon|Jantje /van Loon/|19 SEP 1854|Barradeel|||
+ppl/1/7/ef94d06b0bf2458cdf594b3d71.html|van Loon|Jitske /van Loon/|6 MAR 1840|Beetgum|||
+ppl/e/7/ef94d06b0bfa4fdacdb38f9a7e.html|van der Loon|Jantje /van der Loon/|19 NOV 1885|Franeker|||
+ppl/4/a/ef94d06b0bfa6eec05dcc36a4.html|van der Loon|Jeanette /van der Loon/|||||
+ppl/f/2/ef94d06b10f9d3945a823ae92f.html|van der Loon|Joel /van der Loon/|3 JAN 1985|Durban (Zuid-Afri8ka)|||
+ppl/a/d/ef94d06b15f7b97d1e9fd5dd5da.html|van der Loon|Johannes /van der Loon/|28 JAN 1900|Franeker|18 SEP 1944||
+ppl/1/6/ef94d06b1af1965544de338b561.html|van der Loon|Johannes /van der Loon/|28 JUN 1955|Traralgan (Australie)|||
+ppl/b/5/ef94d06b1ff37be8a2d521ac95b.html|van der Loon|Joost /van der Loon/|||||
+ppl/6/f/ef94d06b1ff6f0cd5f2b1302bf6.html|van der Loon|Katrien /van der Loon/|26 JUN 1983|Amsterdam|||
+ppl/3/5/ef94d06b29f6a462e7a52b32453.html|van der Loon|Klaas /van der Loon/|29 MAY 1866|Franeker|16 MAY 1887|Franeker|
+ppl/3/0/ef94d06b2ef114fe6cd16933c03.html|van der Loon|Klaaske /van der Loon/|26 OCT 1948|Idaard|||
+ppl/5/6/ef94d06b2ef46500d1fe917ee65.html|van der Loon|Klaske /van der Loon/||?Lemmer|||
+ppl/7/0/ef94d06b33f1c743ba62e42cc07.html|van Loon|Lemkje /van Loon/|4 JUN 1881|Hennaarderadeel|||
+ppl/d/7/ef94d06b38f772149ea59a6d37d.html|van der Loon|levenloos mannelijk kind /van der Loon/|6 JUN 1847|Franeker|6 JUN 1847|Franeker|
+ppl/4/6/ef94d06b3dfebbbb3ee73f2b64.html|van der Loon|Lies /van der Loon/||?Lemmer|||
+ppl/d/e/ef94d06b42f73ed87e0f3cb22ed.html|van Loon|Lieuwe Jacobs /van Loon/|||||
+ppl/f/6/ef94d06b47f6095a645b47b56f.html|van der Loon|Lytske /van der Loon/|12 FEB 1990|Arnhem|||
+ppl/c/9/ef94d06b47f730733e6ad89089c.html|van der Loon|Maaike /van der Loon/|3 SEP 1961|Den Haag|||
+ppl/9/9/ef94d06b4e256b54c1d1f5dcb99.html|van der Loon|Maaike /van der Loon/|26 MAR 1978|Geraldton|||
+ppl/a/1/ef94d06b4f7151a8f41b8c6fa1a.html|van der Loon|Maaike Ernestine /van der Loon/|7 JAN 1951|Cambridge|||
+ppl/5/5/ef94d06b516194f57eb7a94c855.html|van der Loon|Margaretha Wilhelmina (Gre) /van der Loon/|13 JUL 1930|Purworedjo|||
+ppl/a/7/ef94d06b53543eeee6e8b45f57a.html|van der Loon|Margriet /van der Loon/|23 MAY 1948|Warstiens|||
+ppl/1/6/ef94d06b55546fe39e6de997661.html|van Loon|Marianne Hilda /van Loon/|10 JUN 1945|Amsterdam|||
+ppl/0/5/ef94d06b580bfba3501c578950.html|van der Loon|Marianne Margaretha /van der Loon/|25 FEB 1858|Franeker|22 JUL 1864|Franeker|
+ppl/6/0/ef94d06b5b547100649bc75f806.html|van Loon|Menno Age /van Loon/|26 APR 1940|Amsterdam|26 MAR 1942|Amsterdam|
+ppl/b/4/ef94d06b5bf279cf835dab9554b.html|van der Loon|Michele /van der Loon/|3 AUG 1960|Caringbak|||
+ppl/f/d/ef94d06b5bf674cf4807e4d59df.html|van der Loon|Michele /van der Loon/|||||
+ppl/8/6/ef94d06b65f42cf05b9babbfe68.html|van der Loon|Minnie Mathilde /van der Loon/|18 JUL 1948|Cambridge (Engeland)|||
+ppl/d/9/ef94d06b65f731bb4d7908fe99d.html|van Loon|Mintje /van Loon/|24 AUG 1909|Franeker|30 APR 1968|Den Haag|
+ppl/f/3/ef94d06b6af29181e0fa641d43f.html|van der Loon|Naftali /van der Loon/|13 APR 1974|Emmen|||
+ppl/b/7/ef94d06b6af3ba7cc73a82af37b.html|van der Loon|Mirjam /van der Loon/|2 DEC 1970|Harderwijk|||
+ppl/2/4/ef94d06b6af75e2e47466c6242.html|van der Loon|Nina /van der Loon/|16 JUN 1998||||
+ppl/f/2/ef94d06b6ff3a7c31732ed3112f.html|van Loon|Oebele /van Loon/|12 MAY 1879|Franeker|24 MAY 1880|Mealdumadeel|
+ppl/8/9/ef94d06b6ff45468ff8f1fdb698.html|van Loon|Oebele /van Loon/|21 APR 1876|Franekeradeel|6 APR 1879|Franekeradeel|
+ppl/e/d/ef94d06b74f1f2e365e3b253bde.html|van der Loon|Piet /van der Loon/|7 APR 1920|Rotterdam|22 MAY 2002|Cambridge|
+ppl/2/c/ef94d06b74f26dd41f7e0a046c2.html|van Loon|Paul /van Loon/|13 DEC 1943|Amsterdam|||
+ppl/0/8/ef94d06b74f5d3328fb96609080.html|van der Loon|Peter A. /van der Loon/||Almelo|||
+ppl/1/5/ef94d06b79f4bb8988228546251.html|van Loon|Pieter /van Loon/|3 DEC 1888|Harlingen|22 MAY 1939|Harlingen|
+ppl/4/5/ef94d06b83f7d1d885232971d54.html|van der Loon|Pieter /van der Loon/|13 SEP 1824|Ferwerderadeel|||
+ppl/2/a/ef94d06b88f34394fff4b16b1a2.html|van der Loon|Pieter /van der Loon/|10 DEC 1883|Franeker|||
+ppl/1/2/ef94d06b8df46094eb644bb9b21.html|van der Loon|Pieter /van der Loon/|25 JUN 1911|Franeker|||
+ppl/9/b/ef94d06b8df70447b695549b8b9.html|van Loon|Pieter Dirks /van Loon/|19 JAN 1850|Barradeel|21 JUL 1912|Franeker|
+ppl/7/8/ef94d06b92f496da6c49400c787.html|van der Loon|Pieter Dirks /van der Loon/|13 AUG 1798|Marrum|18 DEC 1855|Franeker|
+ppl/b/1/ef94d06b92f7744577dad7be51b.html|van der Loon|Pieter Jacobs /van der Loon/|23 MAR 1861|Franeker|13 APR 1861|Franeker|
+ppl/8/7/ef94d06b97f630703831936c478.html|van der Loon|Pieter Johannes /van der Loon/|31 JAN 1934|Purworedjo|||
+ppl/5/3/ef94d06b97f6aac7c7d82c6bd35.html|van der Loon|Pieter Pieters /van der Loon/|2 APR 1828|Ferwerderadeel|20 FEB 1834|Ferwerderadeel|
+ppl/d/c/ef94d06b9cf1b36657900ef01cd.html|van der Loon|Pytter | Pieter Eeltjes /van der Loon/|3 JAN 1773|Nijkerk|19 SEP 1851|Ferwerderadeel|
+ppl/1/9/ef94d06ba6f2af56db40951fb91.html|van der Loon|Reidert of Reinder /van der Loon/|26 SEP 1912|Franeker|||
+ppl/9/3/ef94d06ba6f41a9b1348f78e839.html|van der Loon|Rachaelle /van der Loon/|30 AUG 1991|Wageningen|||
+ppl/1/0/ef94d06bacc36ec372540064a01.html|van der Loon|Rina /van der Loon/|||||
+ppl/6/e/ef94d06bacc40de40f6f77c2ce6.html|van der Loon|Reina /van der Loon/|||||
+ppl/6/a/ef94d06bb1d255dcb02a4f4aba6.html|van der Loon|Rins /van der Loon/||?Lemmer|||
+ppl/2/9/ef94d06bb1d44c3425e716192.html|van der Loon|Ronald /van der Loon/|17 MAR 1965|Soest|||
+ppl/a/c/ef94d06bb1d4d8491fcc79a71ca.html|van der Loon|Simon P.A. /van der Loon/||Amsterdam|||
+ppl/2/9/ef94d06bb6d32fc2fff49a79b92.html|van Loon|Sybren /van Loon/|31 MAR 1851|Barradeel|22 SEP 1852|Franeker??|
+ppl/c/4/ef94d06bb6d7667eefef9248c4c.html|van der Loon|Skye Alice Christiana /van der Loon/|7 SEP 2001|Sandton (Zuid-Afrika)|||
+ppl/6/6/ef94d06bbbd78e892d2f496dd66.html|van Loon|Sybren /van Loon/|19 DEC 1856|Barradeel|18 FEB 1941|Harlingen|
+ppl/0/5/ef94d06bbbd7cab9717a7fd0b50.html|van Loon|Sybren /van Loon/|18 MAR 1853|Barradeel|26 AUG 1853|Barradeel|
+ppl/9/e/ef94d06bc5d44b4a5b5936cf0e9.html|van der Loon|Tanna Wilhelmijna Helena /van der Loon/|19 DEC 1962|Den Haag|||
+ppl/b/f/ef94d06bcad4976472c55e6f8fb.html|van der Loon|Tarnah /van der Loon/||Nambor-Queensland (Australie)|||
+ppl/b/2/ef94d06bcad6c43982ea48b402b.html|van der Loon|Theunis /van der Loon/|25 JUN 1934|Amsterdam?|||
+ppl/a/4/ef94d06bcad772808c1c01a964a.html|van der Loon|Tineke /van der Loon/|20 DEC 1937|Magelang|28 JUN 1944||
+ppl/9/b/ef94d06bcfc40fb3e6a2fbb04b9.html|van der Loon|Titus /van der Loon/|8 JUL 1895|Franeker|11 FEB 1943|Leeuwarden|
+ppl/9/7/ef94d06bcfc7655f3d580bfb79.html|van der Loon|Tiny /van der Loon/|7 FEB 1962|Franeker|||
+ppl/a/d/ef94d06bd4d60f63f3d383b1da.html|van der Loon|Titus /van der Loon/|13 DEC 1918|Amsterdam|2006||
+ppl/d/6/ef94d06bd9c66aa70fe8b7d076d.html|van der Loon|Tjalling /van der Loon/|30 JAN 1852|Franeker|2 APR 1942|Franeker|
+ppl/1/c/ef94d06bd9c8c572c30586f9c1.html|van der Loon|Tjalling /van der Loon/|4 AUG 1922|Lemmer|||
+ppl/2/e/ef94d06bded14e991cfec19d7e2.html|van der Loon|Tjitske /van der Loon/|2 NOV 1915|Amsterdam|||
+ppl/1/c/ef94d06bded24a55d28539529c1.html|van der Loon|Tjitske Dirks /van der Loon/|1801|Marrum|2 APR 1884|Menaldumadeel|
+ppl/7/4/ef94d06be8d29bc9cc6d3b24b47.html|van der Loon|Trijntje /van der Loon/|11 APR 1890|Franeker|29 APR 1977|Grand Rapid, USA|
+ppl/f/3/ef94d06be8d69f1389a46d45a3f.html|van der Loon|Tonnie C /van der Loon/||Almelo|||
+ppl/1/1/ef94d06bedc1e67b0b827f51011.html|van der Loon|Wicher /van der Loon/|28 FEB 1949|Harderwijk|||
+ppl/2/f/ef94d06bedc59c06393604777f2.html|van der Loon|Wouter /van der Loon/|24 MAY 1892|Franeker|29 DEC 1930|Franeker|
+ppl/8/4/ef94d06bf2d230ac6d836cf9948.html|van der Loon|Wouter /van der Loon/|11 AUG 1917|Amsterdam|BEF 11 AUG 1957||
+ppl/7/0/ef94d06bf2d481ac14e44aa2407.html|van der Loon|Wouter /van der Loon/|25 JUN 1931|Franeker|28 JAN 2019|Franeker|
+ppl/0/4/ef94d06bf7c1e6403fdb3a70540.html|van der Loon|Wouter /van der Loon/|25 OCT 1949|Warstiens|||
+ppl/3/b/ef94d06bf7c7bb285584068feb3.html|van der Loon|Wouter /van der Loon/|25 AUG 1954|Deventer|||
+ppl/9/b/ef94d06bfcd10bb8bcd206a0bb9.html|van Loon|Yge /van Loon/|28 SEP 1863|Barradeel|||
+ppl/c/e/ef94d06c01d77fcaee7a30d04ec.html|van (der) Loon|Ytske /van (der) Loon/|1806|Nijkerk|13 JUL 1884|Ferwerderadeel|
+ppl/2/6/ef94d06c06c1e05643fb1f61362.html|Lurvink|Gesina /Lurvink/|14 MAR 1799|Aalten|27 JAN 1868|Aalten|
+ppl/9/6/ef94d06c06c27e317118bc68069.html|van der Loon|zoon 2 /van der Loon/|||||
+ppl/5/0/ef94d06c0bd5602f9ba441ded05.html|Magre|Anna Lieuwkje /Magre/|6 APR 1897|Franeker|||
+ppl/2/8/ef94d06c0bd5ce1ff71b3a56e82.html|Magre|Dirk /Magre/|22 MAY 1863|Franeker|||
+ppl/a/e/ef94d06c10d43d682ea2942e7ea.html|Magre|Harke /Magre/|28 DEC 1893|Franeker|||
+ppl/0/8/ef94d06c10d678539d0aba8d480.html|Magre|Jan /Magre/|26 FEB 1900|Franeker|22 JUL 1909|Franeker|
+ppl/d/3/ef94d06c15c3a82ebf4a217813d.html|Magre|Pieter /Magre/|2 SEP 1886|Franeker|12 NOV 1886|Franeker|
+ppl/1/c/ef94d06c15c47117f6fe84d7ac1.html|Magre|Pieter /Magre/|||||
+ppl/d/6/ef94d06c1ac28a67669cc5a646d.html|Magre|Pieter /Magre/|17 NOV 1887|Franeker|||
+ppl/2/5/ef94d06c1ac3a8b91e4b6887d52.html|Magre|Rinske /Magre/|30 OCT 1891|Franeker|||
+ppl/0/4/ef94d06c1fd60f2a274513a2a40.html|Magre|Sytske /Magre/|17 DEC 1889|Franeker|||
+ppl/1/4/ef94d06c24d4e448e826cd45141.html|Magre|Wilhelmina Helena Paulina Maria /Magre/|31 AUG 1898|Franeker|||
+ppl/3/4/ef94d06c29c26bbf16732f08d43.html|van der Meer|Gerben /van der Meer/|4 APR 1907|Bozum|||
+ppl/f/e/ef94d06c29c6a16b92d8dff45ef.html|van der Meer|Luurtske /van der Meer/|7 APR 1930|Tzum|19 APR 2003|Drachten|
+ppl/1/9/ef94d06c2ed72959c1502555e91.html|van der Meer|Pieter /van der Meer/|||||
+ppl/3/d/ef94d06c2ed759510696db91bd3.html|Meinerts|Job /Meinerts/|1737|Ferwerd|29 DEC 1818||
+ppl/5/1/ef94d06c33d2f3e4f995b3ef715.html|van der Merwe| /van der Merwe/|||||
+ppl/0/5/ef94d06c33d3d18f36005b8bb50.html|van der Merwe|Marco Meintjes /van der Merwe/|13 AUG 1992||||
+ppl/9/0/ef94d06c33de57b0af67602a09.html|Miedema|Akke Reins /Miedema/|28 NOV 1826|Herbaym|5 MAY 1896|Herbaym|
+ppl/1/b/ef94d06c38c2919877eea8f4fb1.html|Miedema|Gerrit /Miedema/|4 MAY 1817|Franekeradeel|||
+ppl/3/6/ef94d06c38cef95d175e05c663.html|Miedema|Bauke /Miedema/|26 MAY 1814|Franekeradeel (mairie Tzum)|||
+ppl/6/a/ef94d06c3dd1d54c0b51666d0a6.html|Miedema|Jitske /Miedema/|18 SEP 1811|Franekradeel|||
+ppl/b/1/ef94d06c3dd6931bfc991aa261b.html|Miedema|Grietje Douwes /Miedema/|||27 DEC 1814|Dronrijp|
+ppl/d/d/ef94d06c3dd7f886e7e4f7361dd.html|Miedema|Rein Baukes /Miedema/|||13 JUL 1830|Herbaym|
+ppl/2/b/ef94d06c47d285104a428d9e5b2.html|van Milligen|Jan /van Milligen/|1 SEP 1958||||
+ppl/d/d/ef94d06c47d486492dcbdf2a3dd.html|van Milligen|Henk /van Milligen/|26 DEC 1985||||
+ppl/9/f/ef94d06c4cc26c928f4bcd67f9.html|Moerman|Cornelis Marinus /Moerman/|20 DEC 1903|Rotterdam|9 SEP 1972|Rotterdam|
+ppl/c/9/ef94d06c4cc53f92b2b9ae55c9c.html|van Milligen|Jana /van Milligen/|24 MAY 1988||||
+ppl/d/e/ef94d06c4cc685aeb28c3724ced.html|Moerman|Anna Elisa /Moerman/|8 APR 1942|Rotterdam|||
+ppl/e/6/ef94d06c51d24896d5896890d6e.html|Moerman|Maria Johanna /Moerman/|10 JUL 1936|Rotterdam|||
+ppl/f/3/ef94d06c51d5a03bd126786223f.html|Moerman|Pieter Cornelis /Moerman/|||||
+ppl/e/c/ef94d06c56d13d51a2d2df176ce.html|Moerman|Pieter Cornelis /Moerman/|15 MAY 1930|Rotterdam|||
+ppl/4/5/ef94d06c56d731caea13c1e7c54.html|Moerman|Wouter Pieter /Moerman/|22 MAY 1932|Rotterdam|||
+ppl/a/3/ef94d06c56d752bd2a4edeb183a.html|Molenaar|Klaske /Molenaar/|1863||24 AUG 1907||
+ppl/d/a/ef94d06c5bd39fbf524187e1fad.html|Morra (Gemser)|Aukje Pieters /Morra (Gemser)/|6 SEP 1797|Franeker|6 JUN 1836|Franeker|
+ppl/5/2/ef94d06c5bd69d8ce3060d79125.html|Mosselman|Jan /Mosselman/|25 NOV 1901|Oost Dongeradeel|7 AUG 1974|Drachten|
+ppl/0/8/ef94d06c60d56924c8a6898c680.html|van Mourik|Ida /van Mourik/|||||
+ppl/7/5/ef94d06c65d25f8d1daf217e557.html|Muller|Jacoba Elisabeth /Muller/|6 JAN 1859|Batavia|3 SEP 1930|Sragen|
+ppl/d/8/ef94d06c6ac21ede7fa66d81d8d.html|Nauta|Aaltje /Nauta/|1 DEC 1880|Sneek|24 JAN 1888|Sneek|
+ppl/c/5/ef94d06c6ac44d10e2c3944a25c.html|Munster|Wilhelmina (Willy) /Munster/|27 JAN 1904|Rotterdam|11 MAR 1986||
+ppl/f/4/ef94d06c6ac5b75d12ceb08fe4f.html|Nagel|Ina /Nagel/|1 MAR 1964||||
+ppl/9/a/ef94d06c6fd136a9d97195d9aa9.html|Nauta|Aaltje Tjitske /Nauta/|15 FEB 1892|Sneek|18 MAY 1893|Sneek|
+ppl/7/c/ef94d06c6fd2c605d87046714c7.html|Nauta|Klaas /Nauta/|26 SEP 1878|Sneek|10 AUG 1949|Heiloo|
+ppl/f/a/ef94d06c74d17c169afc8fa6af.html|Nauta|Tjitske /Nauta/|14 MAR 1883|Sneek|1 NOV 1886|Sneek|
+ppl/c/9/ef94d06c74d476fbe0596791b9c.html|Nauta|Tjeerd /Nauta/|28 SEP 1887|Sneek|||
+ppl/6/2/ef94d06c74d5294c3179926126.html|Nauta|Kornelis /Nauta/|||||
+ppl/d/7/ef94d06c79d14d1dc0a68cdc27d.html|Nauta|Tjitske Aaltje /Nauta/|19 AUG 1889|Sneek|||
+ppl/4/c/ef94d06c79d51918a37458a4bc4.html|Nel|Deidre /Nel/|3 SEP 1969||||
+ppl/f/2/ef94d06c7ec20d859cc8700032f.html|Nieuw|Sybe /Nieuw/|14 FEB 1836|Tietjerksteradeel|24 MAR 1837|Tietjerksteradeel|
+ppl/9/f/ef94d06c7ec215234cf234f7af9.html|van Neurn|Jill /van Neurn/|||||
+ppl/a/8/ef94d06c7ec23bcf01d5ea06b8a.html|Nieuw|Pieter Engberts /Nieuw/|||||
+ppl/5/8/ef94d06c8b14d7caf3a8dd67385.html|Nieuw|Trijntje Pieters /Nieuw/|16 MAY 1834|Hardegarijp|9 JUL 1895|Franeker|
+ppl/c/1/ef94d06c8dc5bc122679b3ee11c.html|Nieuw|Ynskje /Nieuw/|25 SEP 1838|Tietjerksteradeel|||
+ppl/5/e/ef94d06c90664e9893abc86abe5.html|Nieuwbuur|Geerte Roelofs /Nieuwbuur/|NOV 1761||||
+ppl/2/6/ef94d06c91ac6ccc45d3e41962.html|Nieuwenhuizen|Henrica Adriana /Nieuwenhuizen/|26 AUG 1866|Den Bosch|17 FEB 1941|Amsterdam|
+ppl/3/d/ef94d06c92f3e793aa13bab92d3.html|Niewenhuis|Dante /Niewenhuis/||Amsterdam|||
+ppl/0/e/ef94d06c92f40a980b2753259e0.html|Niewenhuis|Els /Niewenhuis/||Hoorn|||
+ppl/d/d/ef94d06c92f6790756f45dda5dd.html|Niewenhuis|Hans /Niewenhuis/|27 MAY 1958|Hoorn|||
+ppl/3/a/ef94d06c97f21c0892e4fd221a3.html|Niewenhuis|Johan /Niewenhuis/|26 MAR 1929|Amsterdam|||
+ppl/3/d/ef94d06c97f73f204943ce574d3.html|Niewenhuis|Stella Lijntje /Niewenhuis/||Amsterdam|||
+ppl/3/f/ef94d06c9d03b5a07fd92bfa8f3.html|van Ommeren|Evert /van Ommeren/|||||
+ppl/0/3/ef94d06c9d04708234800f0b230.html|van Ommeren|Helena Catharina /van Ommeren/|8 DEC 1834|Kampen|26 MAY 1875|Arnhem|
+ppl/9/3/ef94d06c9d04d5b4c6fd453b839.html|Nordon|Jan /Nordon/|||||
+ppl/0/7/ef94d06c9d069e9b7a7faba4470.html|Noort|Cornelis /Noort/|8 JUN 1929|Alkmaar|||
+ppl/d/9/ef94d06ca705ba9c06c253d69d.html|Oostenbrink|Hermien /Oostenbrink/|15 DEC 1933||||
+ppl/2/e/ef94d06ca705eee4fe01c1ef8e2.html|van Opstal|J. /van Opstal/|||||
+ppl/4/4/ef94d06ca707888e6ee7386cc44.html|Onbekend|Hiltje /Onbekend/|||||
+ppl/5/4/ef94d06cac03ec6abe07660dc45.html|Overwater|Johannes Franciscus Maria /Overwater/|19 MAY 1910|Amsterdam|27 MAY 2001|Zutphen|
+ppl/2/9/ef94d06cac061759e6366b4a792.html|Overweel|Ellen /Overweel/|||||
+ppl/d/d/ef94d06cac076646fd0399d85dd.html|Ouendag|Syke /Ouendag/|||||
+ppl/5/2/ef94d06cb0f302d1e0c8a711125.html|van Panhuis|Wijmpje /van Panhuis/|2 JUN 1944|Ermelo|||
+ppl/8/2/ef94d06cb0f629d8c75ffdee728.html|Piebenga|Akke /Piebenga/|15 SEP 1885|Kiesterzijl (gem. Franeker)|16 OCT 1886||
+ppl/8/b/ef94d06cb0f65cb576ef75e3db8.html|Overzet|Sijtske Sijbes /Overzet/|||||
+ppl/8/a/ef94d06cb5f3a04628123d694a8.html|Piebenga|Akke /Piebenga/|14 DEC 1886|Kiesterzijl (gem. Franeker)|||
+ppl/9/c/ef94d06cb5f58fd6b6fa72f19c9.html|Piebenga|Feikje /Piebenga/|1823|Welsrijp|||
+ppl/e/b/ef94d06cbaf61f057588eb694be.html|Piebenga|Geertje /Piebenga/|29 APR 1819|Welsrijp|1896||
+ppl/8/4/ef94d06cbaf7bc88358baaf8648.html|Piebenga|Fietje /Piebenga/|27 JUL 1789||||
+ppl/c/5/ef94d06cbffcf8679f5643fa5c.html|Piebenga|Haring Sjoukes /Piebenga/|9 SEP 1786|Welsrijp|29 OCT 1864|Welsrijp|
+ppl/9/a/ef94d06cc4f611f249830a5ca9.html|Piebenga|Haring Tjittes /Piebenga/|10 SEP 1856|Franekeradeel|23 MAR 1937|Kiesterzijl|
+ppl/d/3/ef94d06cc9f64a944e5f4d15c3d.html|Piebenga|Harmen /Piebenga/|2 APR 1821|Welsrijp|||
+ppl/3/6/ef94d06cc9f7606e8aef7733c63.html|Piebenga|Harmke /Piebenga/|21 NOV 1825|Welsrijp|||
+ppl/5/9/ef94d06ccef5063cc7374d0b495.html|Piebenga|Jan /Piebenga/|||||
+ppl/d/2/ef94d06ccef65ffaa14a883bf2d.html|Piebenga|Jan /Piebenga/|15 SEP 1833|Welsrijp|JUN 1834|Welsrijp|
+ppl/d/0/ef94d06cd3f475589bab7dd640d.html|Piebenga|Jan /Piebenga/|4 APR 1910|Franeker|||
+ppl/c/3/ef94d06cd4d427026f8dd0c763c.html|Piebenga|Maaike /Piebenga/|30 OCT 1896|Kiesterzijl|26 MAY 1971|Leeuwarden|
+ppl/f/c/ef94d06cd9d42ed452f6c81decf.html|Piebenga|Roelof /Piebenga/|28 FEB 1795||||
+ppl/b/9/ef94d06cd9d5c92c35062d6579b.html|Piebenga|Ruurtje /Piebenga/|27 APR 1891|Kiesterzijl (gem. Franeker)|||
+ppl/2/7/ef94d06cded2a5444bd389d9672.html|Piebenga|Sjouke Harings /Piebenga/|15 NOV 1753|Welsrijp|||
+ppl/2/b/ef94d06cded6c6d9786b68eddb2.html|Piebenga|Sikke /Piebenga/|5 FEB 1888|Kiesterzijl (gem. Franeker)|||
+ppl/e/7/ef94d06ce3d1823057f109a957e.html|Piebenga|Tiete /Piebenga/|1 FEB 1884|Kiesterzijl (gem. Franeker)|||
+ppl/d/a/ef94d06ce3d4f5c1352b23ffaad.html|Piebenga|Sjoukje /Piebenga/|23 OCT 1825|Welsrijp|||
+ppl/d/5/ef94d06cedd1fdd17ab8727d95d.html|Piebenga|Tiete /Piebenga/|30 NOV 1828|Weslrijp|30 MAR 1881|Herbaym|
+ppl/7/1/ef94d06cedd312e3147a5ab2817.html|Piebenga|Tjietske /Piebenga/|18 JUN 1882|Kiesterzijl (gem. Franeker)|||
+ppl/4/b/ef94d06cf2d2bfec46fbef731b4.html|Pienaar|Sujanie /Pienaar/|30 JUL 1976||||
+ppl/f/8/ef94d06cf2d6149528d3d0b218f.html|Piebenga|Trijntje /Piebenga/|29 DEC 1835|Welsrijp||Baard|
+ppl/0/6/ef94d06cf2d638e4c01f2fad60.html|Pienaar|Michele Wilma /Pienaar/|15 APR 1959|Chingola (Zambia)|||
+ppl/d/b/ef94d06cf7d4f5ba3e7a2e7f6bd.html|Piers|Jan /Piers/|||||
+ppl/7/3/ef94d06cf7d77a3da2f90a61d37.html|Piers|Grietje /Piers/|18 FEB 1765|Marrum|||
+ppl/b/d/ef94d06cf7d77f1581750c84cdb.html|Pieterman|Frouke Jacobus /Pieterman/|1804|Uithuizermeeden|||
+ppl/1/3/ef94d06cfcd16ff8892ea1afb31.html|Pietersma|Petrus Joannes Lambertus /Pietersma/|19 DEC 1954|Deurne|||
+ppl/e/e/ef94d06cfcd26950585ca6fadee.html|Pietersma|Meinze /Pietersma/|27 SEP 1920|Joure||Zevenaar|
+ppl/8/e/ef94d06cfcd6430ed6f84a5d9e8.html|Pietersma|Kim /Pietersma/|20 OCT 1988|Zevenaar|||
+ppl/f/7/ef94d06d01d525e2c2293ec997f.html|Pietersma|Sanne /Pietersma/|5 JAN 1993|Zevenaar|||
+ppl/9/c/ef94d06d01d6dc706da1fc2c5c9.html|Ploegsma|Trijntje /Ploegsma/|23 JUL 1897|Ried (Franekeradeel)|19 APR 1982|Franeker|
+ppl/8/4/ef94d06d0be3ea62523be273948.html|Poling|Brian Allen /Poling/|25 SEP 1976||||
+ppl/e/4/ef94d06d0be4d7fb8ce8281804e.html|Poling|Brianna Kay /Poling/|18 APR 2002||||
+ppl/3/0/ef94d06d10d34794bb64840ac03.html|de Polzer|Liria Matelda Leila /de Polzer/|9 SEP 1968|Varese (Italie)|||
+ppl/1/f/ef94d06d10d7e7245ab04ac14f1.html|Pols|Mettje Jans /Pols/|1823|Klooster Lidlum(?)|||
+ppl/7/f/ef94d06d10d9ef04e065548cf7.html|Poling|Emily Claire /Poling/|22 DEC 1999||||
+ppl/4/d/ef94d06d15d1f66567e7b508bd4.html|Postma|Aaltje /Postma/|25 MAR 1923|Grouw|9 FEB 2018|Akkrum|
+ppl/c/3/ef94d06d15d5073ff009bf7ef3c.html|Poortstra|Hiltje /Poortstra/|12 APR 1896|Kimswerd|21 JUL 1973|USA|
+ppl/5/5/ef94d06d15d58cbfbdfc43fc255.html|Poortstra|Pieter /Poortstra/||Ried|||
+ppl/9/3/ef94d06d1ad5f3c26063ca17539.html|Pretorius|Mathilda /Pretorius/|24 SEP 1966||||
+ppl/b/5/ef94d06d1ad7c19627503934a5b.html|Prins|Annie Elisa /Prins/|30 JUN 1917|Rotterdam|18 SEP 1955|Utrecht|
+ppl/c/f/ef94d06d1fd7622ddd2da3161fc.html|Prins|Catharina /Prins/|23 NOV 1921|Rotterdam|||
+ppl/5/4/ef94d06d1fd7d64a0782fad1a45.html|Prins|Femke /Prins/|11 OCT 1991||||
+ppl/c/2/ef94d06d24d25408fb8555c002c.html|Prins|Fettje /Prins/|7 NOV 1919|Rotterdam|8 DEC 1990|Hengelo|
+ppl/0/9/ef94d06d24d6319b5b076d6fc90.html|Prins|Jan Peeting /Prins/|21 APR 1892|Lonneker|8 NOV 1972|Groningen|
+ppl/0/8/ef94d06d2ed11102e14cfa9d780.html|Prins|Johannes Pieter /Prins/|2 SEP 1931|Rotterdam|||
+ppl/2/f/ef94d06d2ed502c2372919364f2.html|Prins|Jelle /Prins/|22 MAR 1952||||
+ppl/e/f/ef94d06d33d2506a90803e0c0fe.html|Prins|Piebe Jans /Prins/|||||
+ppl/a/1/ef94d06d33d303644054ac6471a.html|Prins|Marieke /Prins/|30 JAN 1982||||
+ppl/a/6/ef94d06d33d527477ddb1a40e6a.html|Prins|Piebe Jan /Prins/|5 NOV 1925|Rotterdam|||
+ppl/6/7/ef94d06d38d137e9f3ee9dcc76.html|Ramirez|Marlon /Ramirez/|11 MAY 2007|Stockholm|||
+ppl/8/2/ef94d06d38d257442d944364728.html|Pytters|Tjitske /Pytters/|||||
+ppl/1/e/ef94d06d38d3b91cc6cd716a8e1.html|Ramirez|Julio /Ramirez/|||||
+ppl/0/c/ef94d06d38d7598da4f00acf3c0.html|Prins|Sjoukje /Prins/|23 SEP 1978||||
+ppl/6/b/ef94d06d3dd11192cf0d2adfcb6.html|Ramirez|Rubi Linnea Munay /Ramirez/|8 OCT 2005|Stockholm|||
+ppl/1/b/ef94d06d3dd58dc88598087cfb1.html|Ramirez Villanueva|Julio Americo /Ramirez Villanueva/|4 JUL 1976|Lima (Peru)|||
+ppl/3/0/ef94d06d42e1cf8807ea0e9ee03.html|Reen|Angela /Reen/|2 APR 1968|Durban (Zuid-Afrika)|||
+ppl/e/1/ef94d06d42e7f78f21404f6b81e.html|Reen|Jelle /Reen/|27 JAN 1951|Wieuwert|||
+ppl/9/0/ef94d06d4cd25aafd2a2230e909.html|Reen|Jildou /Reen/|3 MAR 1980|Wiuwert|||
+ppl/3/5/ef94d06d51d1ed1aae029ddd953.html|Regamy|Marianne Margaretha /Regamy/|||||
+ppl/1/6/ef94d06d51d37b4cd120ac19c61.html|Reinders|Seeske /Reinders/|1789||||
+ppl/2/b/ef94d06d51d53208f37efbe44b2.html|Marretje|Marie /Marretje/ de Reiger|26 SEP 1912|Amsterdam|1956||
+ppl/7/7/ef94d06d56d17c58b933cedf277.html|Reinhoud|Monica Pauline Maria /Reinhoud/|21 JUL 1965|Venlo|||
+ppl/7/f/ef94d06d56d4cce60b9554d86f7.html|Reinhoud|Ingrid Henrica Jacqueline Maria /Reinhoud/|16 JUN 1963|Blerick|||
+ppl/f/1/ef94d06d56d70bbddd72d18861f.html|Reinhoud|Petrus Henricus /Reinhoud/|12 APR 1935|Venlo||Venlo|
+ppl/4/9/ef94d06d5bd3a9fc2da1218b94.html|Reitsma|Bouwe /Reitsma/|21 OCT 1867|Franekeradeel|||
+ppl/0/9/ef94d06d5bd685efd7001547d90.html|Reitsma|Oebele /Reitsma/|28 JUL 1847|Franekeradeel|28 DEC 1922|Franeker|
+ppl/1/a/ef94d06d63e5f5b0199e5b4dca1.html|Reitsma|Pieter /Reitsma/|||||
+ppl/e/3/ef94d06d64843773a19b71a133e.html|Reitsma|Pieter /Reitsma/|18 NOV 1861|Franekeradeel|||
+ppl/1/e/ef94d06d6725278749cc13734e1.html|Reitsma|Rigtje Sybrens /Reitsma/|21 JAN 1846|Franekeradeel|||
+ppl/9/0/ef94d06d6877596caa851b0d109.html|Reitsma|Sybren Pieters /Reitsma/|||||
+ppl/7/f/ef94d06d69c1c896f32770e4af7.html|Reitsma|Tettje Fokkes /Reitsma/|||||
+ppl/8/f/ef94d06d7103dfbe0dbbba213f8.html|Reitsma|Willem Fokkes /Reitsma/|||||
+ppl/5/d/ef94d06d71a24f68732068709d5.html|Renes|Wilhelmina /Renes/|||||
+ppl/2/c/ef94d06d71a57517d8df4c0a7c2.html|van Rijn|Henrica Adriana /van Rijn/|5 SEP 1926|Utrecht|||
+ppl/e/7/ef94d06d71a609cf114fcb4f07e.html|van Rijn|Johannes Carolus Marinus /van Rijn/|25 MAY 1860||1945|Amsterdam|
+ppl/0/b/ef94d06d71a6ee03d63a25025b0.html|Riemersma|doutje /Riemersma/|||||
+ppl/7/8/ef94d06d76b3b0626398eb17e87.html|van Rijn|Karel /van Rijn/|7 MAR 1895|Amsterdam|18 DEC 1928|Utrecht|
+ppl/2/6/ef94d06d76bf3c5a60f901c62.html|van Rijn|Maria Geertrui Elisabeth /van Rijn/|23 JUN 1924|Utrecht|20 FEB 2016|Schiedam|
+ppl/b/9/ef94d06d80a431e1112b725569b.html|de Ring|Corrie /de Ring/|||||
+ppl/4/0/ef94d06d80a6bccd2cb742f6904.html|de Ring|K. /de Ring/|||||
+ppl/4/7/ef94d06d80a7a17585b588df774.html|de Ring|Anneke /de Ring/|||||
+ppl/7/7/ef94d06d85a31f571fbc92da77.html|Rispens|Janke /Rispens/|25 AUG 1867|Franekeradeel|||
+ppl/0/5/ef94d06d85a75adcf021e0c1c50.html|Rispens|Romkje /Rispens/|12 JAN 1869|Franekeradeel|||
+ppl/4/4/ef94d06d8aa38bbc0ddd86db244.html|Rispens|Taede Baukes /Rispens/|||||
+ppl/5/2/ef94d06d8aa705e070e6e56625.html|Rispens|Sybren /Rispens/|14 OCT 1870|Franekeradeel|||
+ppl/d/1/ef94d06d8fa49af25412741a31d.html|Roelofs|Egbert /Roelofs/|||||
+ppl/5/5/ef94d06d94a47ce84fd57cbc255.html|Roelofs|Johanna Egberta /Roelofs/|||1 NOV 1824|Kampen|
+ppl/d/6/ef94d06d99a1a3885d2a66cbf6d.html|Rorafui|Jackonias /Rorafui/|||||
+ppl/f/b/ef94d06d99addd5da2eb46adbf.html|Rorafui|Jan /Rorafui/|10 JUN 1925|Kampong Hokmar, Aru-eilanden|13 NOV 1990||
+ppl/b/9/ef94d06da8a2c632fd53c53e89b.html|Rorafui|Kagor Marcus /Rorafui/|14 DEC 1968|Drachten|||
+ppl/3/b/ef94d06da8a94e5948334b9eb3.html|Rorafui|Kagor /Rorafui/|||||
+ppl/a/4/ef94d06dada4d86f061f689174a.html|Rorafui|Noa Lucia /Rorafui/|1 OCT 1997|Drachten|||
+ppl/d/2/ef94d06dada6658fc4f59e3922d.html|Rorafui|Lucia /Rorafui/|3 APR 1970|Drachten|5 APR 1970|Drachten|
+ppl/d/1/ef94d06db2a1863afc939dea31d.html|Rorafui|Tabitha /Rorafui/|||||
+ppl/1/5/ef94d06db2a282a28c40aa8bb51.html|Rorafui|Thomas /Rorafui/|||||
+ppl/9/1/ef94d06db2a4ce035eed72dc519.html|Rorafui|Pauline /Rorafui/|||||
+ppl/4/9/ef94d06db2a60bc75e441b09094.html|Rorafui|Robin /Rorafui/|||||
+ppl/3/a/ef94d06db7a3a65914ba423f2a3.html|Rorafui|Tobias /Rorafui/|||||
+ppl/c/b/ef94d06db7a4c2756131c0941bc.html|Rorafui|Thomas Jack /Rorafui/|24 NOV 1975|Leiden|||
+ppl/1/4/ef94d06db7ac855484d4939041.html|Ross|Arthur Robert Pieter /Ross/|14 OCT 1988|Leiderdorp|||
+ppl/4/2/ef94d06dbca4d1ba7e9ddc524.html|Ross|Charlotte Cornelie /Ross/|25 APR 1982|Leiden|||
+ppl/f/0/ef94d06dbca75f09b20a655b30f.html|Ross|Erica Margaret /Ross/|2 DEC 1984|Leiden|||
+ppl/0/2/ef94d06dc1b5426671faba0e920.html|Ross|Johanna Margaret /Ross/|25 APR 1982|Leiden|30 MAY 1982|Amsterdam|
+ppl/5/c/ef94d06dc6a1b323dd631b9f6c5.html|Ross|Robert John /Ross/|26 JUL 1949|Sidcup (Engeland)|||
+ppl/4/1/ef94d06dc6a210ab9384098de14.html|van Ruiten|Gelbrich /van Ruiten/|24 SEP 1784||||
+ppl/a/5/ef94d06dcba1c5b152db22c195a.html|van Ruiten|IJbeltje /van Ruiten/|29 JUN 1789||||
+ppl/5/4/ef94d06dcba221dfc5e374d3d45.html|van Ruiten|Gerrit /van Ruiten/|||||
+ppl/f/9/ef94d06dcba50459bd5edbb959f.html|van Ruiten|Klaske /van Ruiten/|12 NOV 1780||||
+ppl/d/4/ef94d06dcbaed2aa8f0b3b6a4d.html|van Ruiten|Jantje /van Ruiten/|14 FEB 1783||||
+ppl/1/6/ef94d06dd0b20a00edab428a161.html|van Ruiten|Sijke /van Ruiten/|12 JUL 1787|Franeker|4 NOV 1825|Franeker|
+ppl/6/0/ef94d06dd0b2500a4e5b2ce7206.html|de Ruiter|Carolien /de Ruiter/|22 SEP 1967||||
+ppl/9/6/ef94d06dd5a3ccaa9f3f70eff69.html|Sagemans|Ruurd Baukes /Sagemans/|||||
+ppl/1/f/ef94d06dd5a6641bda3b3fe24f1.html|Sanches|Leslie /Sanches/|12 OCT 1947|Caracao (?)|||
+ppl/a/7/ef94d06dd5ac3693f3bf6be47a.html|Sagemans|levenloos kind /Sagemans/|31 JAN 1849|Harlingen|31 JAN 1849|Harlingen|
+ppl/e/c/ef94d06ddaa6f71123c5815a3ce.html|Sanches|Luurtske /Sanches/|27 NOV 1971|St. Rossa|||
+ppl/a/c/ef94d06ddaa7004e93096257aca.html|Sannes|Johannes /Sannes/|22 AUG 1863|Franeker|1 MAR 1919|Franeker|
+ppl/1/3/ef94d06de4b1237a109aed77331.html|Schiltmeijer|Johanna Maria /Schiltmeijer/|1869||||
+ppl/8/2/ef94d06de4b435ad5821dac9128.html|Schoen|Hanli /Schoen/|12 FEB 1977||||
+ppl/2/4/ef94d06de4b4b356117eb669042.html|Sannes|Meinte /Sannes/|||||
+ppl/6/f/ef94d06dea71f9cccbbc9d66df6.html|Seip|Bernhard /Seip/|28 SEP 1996||||
+ppl/c/8/ef94d06dea7226b7c78d605668c.html|Schut|Theo /Schut/|||||
+ppl/c/7/ef94d06dea762e0081824341b7c.html|Seevinck|Nelly /Seevinck/|31 JUL 1941||||
+ppl/d/2/ef94d06dea768aae8e1f026982d.html|Seip|Benjamin /Seip/|13 AUG 1998||||
+ppl/2/0/ef94d06def74afd8a1079d32402.html|Sharpley|Charlene /Sharpley/|24 JUL 1987||||
+ppl/f/0/ef94d06def755a7c0390ae7860f.html|Seip|Erik /Seip/|17 JAN 1962||||
+ppl/1/a/ef94d06def765def5d3a47033a1.html|Seip|Juliana /Seip/|4 JUL 1993||||
+ppl/4/5/ef94d06df474437dbe631ffbb54.html|Sharpley|Patrick /Sharpley/|7 JUN 1961||||
+ppl/d/6/ef94d06df47568b41bb7ead466d.html|Siesling|Akke /Siesling/|14 JUN 1855|Baarderadeel|16 JUN 1855|Baarderadeel|
+ppl/5/6/ef94d06df47ff737980b777765.html|Sharpley|Raymond /Sharpley/|20 FEB 1985||||
+ppl/0/d/ef94d06df986ae4b0d16f80d8d0.html|Siesling|Atje /Siesling/|28 MAR 1861|Baarderadeel|6 APR 1861|Baarderadeel|
+ppl/f/8/ef94d06df986bcb554f97969d8f.html|Siesling|Akke /Siesling/|11 MAY 1859|Baarderadeel|16 AUG 1859|Baarderadeel|
+ppl/a/7/ef94d06dfe77758c5bfdad7bd7a.html|Siesling|Feikjen /Siesling/|3 OCT 1867|Baarderadeel|||
+ppl/b/d/ef94d06e038174e7defa8175edb.html|Siesling|Hans Jans /Siesling/|26 MAY 1828|Baarderadeel|19 NOV 1892|Baarderadeel|
+ppl/2/d/ef94d06e08770269a4e5e5379d2.html|Siesling|Hylkje /Siesling/|14 JUN 1855|Baarderadeel|29 JUN 1855|Baarderadeel|
+ppl/0/0/ef94d06e0877399815a8ca84100.html|Siesling|Hylkje Hanses /Siesling/|19 SEP 1856|Baarderadeel|6 DEC 1934|Harlingen|
+ppl/a/8/ef94d06e0d71cffd531a9ace58a.html|Siesling|Jan /Siesling/|28 MAR 1861|Baarderadeel|19 APR 1861|Baarderadeel|
+ppl/9/9/ef94d06e0d73f5867f73b4fa499.html|Siesling|Jan /Siesling/|2 APR 1862|Baarderadeel|||
+ppl/6/2/ef94d06e12714da7a74261ff26.html|Siesling|Jelle /Siesling/|29 APR 1865|Baarderadeel|||
+ppl/4/8/ef94d06e12741f2f276d5a7b984.html|Sieswerda|Lijsbeth /Sieswerda/||Ried|||
+ppl/5/c/ef94d06e1275cfad7b7c27ecdc5.html|Sijbesma|Sijbe Brants /Sijbesma/|||||
+ppl/7/3/ef94d06e178424f9b06c76c0837.html|Sina| /Sina/|||||
+ppl/2/2/ef94d06e17866192c7260bc0422.html|van Singel|Bradley Gordon /van Singel/|18 DEC 1980||||
+ppl/8/d/ef94d06e1787f2f07757140f2d8.html|Sijseling|Hinke Harmens /Sijseling/|29 SEP 1794|Mantgum|6 FEB 1868|Welsrijp|
+ppl/f/7/ef94d06e1c84cb20d9f7f89647f.html|Sipma|Tjitske Pieters /Sipma/||Stiens|18 JAN 1847|Nykerk|
+ppl/0/8/ef94d06e1c84d94386074a59c80.html|Sipma|Pieter Y /Sipma/|||BEF 1822||
+ppl/6/5/ef94d06e26719de0db718cd6556.html|Sluimer|Teunis /Sluimer/|||||
+ppl/e/7/ef94d06e2672941eaca171aa57e.html|Smit|Antje /Smit/|23 MAR 1866|Harlingen|12 MAY 1956|Amsterdam|
+ppl/e/5/ef94d06e267717ac676b312d75e.html|Sloterdijk|Grietje /Sloterdijk/|||||
+ppl/7/b/ef94d06e2b7413aeb89600abab7.html|Smit|Grietje /Smit/|15 JAN 1862|Harlingen|||
+ppl/f/6/ef94d06e2b748e952697d70b96f.html|Smit|Catharina /Smit/|24 JUN 1868|Amsterdam|31 OCT 1936|Aalten|
+ppl/3/0/ef94d06e3073a383ce7f1adb903.html|Smit|Hendrik /Smit/|||||
+ppl/4/d/ef94d06e307a0e99cb0f34d9d4.html|Smit|Johanna /Smit/|28 JUL 1869|Harlingen|||
+ppl/9/4/ef94d06e35745b0ff99123c4d49.html|Smit|Johannes /Smit/|1 NOV 1864|Harlingen|||
+ppl/7/a/ef94d06e3576bf9827404aa0aa7.html|Smit|Johannes /Smit/|14 DEC 1870|Harlingen|||
+ppl/f/b/ef94d06e3a75715681c5cbc64bf.html|Smit|Johannes Thomas /Smit/|||||
+ppl/9/6/ef94d06e3a758352c1a163969.html|Smit|Tiete /Smit/|7 MAR 1863|Harlingen|||
+ppl/a/0/ef94d06e3a764232f3760658f0a.html|Smit|Johannes /Smit/|1862||||
+ppl/d/1/ef94d06e3f82544d9f4bfc1091d.html|Smit|Wouter /Smit/|28 SEP 1834|Harlingen|30 MAY 1874|Harlingen|
+ppl/b/d/ef94d06e49d46484ea6077de5db.html|Smit(h)|Henri /Smit(h)/||Rotterdam|||
+ppl/d/5/ef94d06e49d684402453025bf5d.html|Smit(h)|Aaltje /Smit(h)/|18 SEP 1874|Harlingen|||
+ppl/f/3/ef94d06e4f5256fc60bbbdc283f.html|Smit(h)|Wouter /Smit(h)/|27 MAY 1872|Harlingen|||
+ppl/a/2/ef94d06e51ed19edfcb310f92a.html|Smits|Grietje /Smits/|7 MAY 1938||||
+ppl/0/d/ef94d06e53c1dd082d3374bed0.html|Snellen|Minnie /Snellen/|||2 JAN 2019|Oegstgeest|
+ppl/b/4/ef94d06e55b5e71e0205870d44b.html|Snoek|Arthur /Snoek/|23 AUG 1953||||
+ppl/6/d/ef94d06e56f5a2eaeab401a72d6.html|Snoek|Dorothy /Snoek/|17 JUL 1958||||
+ppl/a/9/ef94d06e58e7448944cfbefc49a.html|Snoek|Ellen /Snoek/|||||
+ppl/0/8/ef94d06e5ae78e61ab805e5c580.html|Snoek|Hans /Snoek/|3 JUL 1929||||
+ppl/a/8/ef94d06e5c266117b55719348a.html|Snoek|James Theodore /Snoek/|||||
+ppl/e/8/ef94d06e5e046de8a02e268638e.html|Snoek|John Edward /Snoek/|12 APR 1955||7 APR 1983||
+ppl/7/8/ef94d06e5e070ea1f0e23b27587.html|Snoek|Joyce Barbara /Snoek/|12 MAY 1956||||
+ppl/5/d/ef94d06e5e07e3ab9894cb065d5.html|Snoek|Robert Hans /Snoek/|5 FEB 1969||||
+ppl/2/8/ef94d06e6303a5fba0473028682.html|Snoek|Wendy /Snoek/|12 MAY 1960||||
+ppl/1/f/ef94d06e63045446b5f4ddfb5f1.html|Sokmen|Erin Nihat /Sokmen/|3 MAY 1990|Istanbul (Turkije)|||
+ppl/3/e/ef94d06e6814c0bb777f6a88de3.html|Sokmen|Levent /Sokmen/||Turkije|||
+ppl/0/b/ef94d06e6d01d073b6ab691efb0.html|Sokmen|Sinan Levent /Sokmen/|10 DEC 1999|Istanbul (Turkije)|||
+ppl/8/a/ef94d06e6d02ab8097aa42544a8.html|Sokmen|Melika Janine /Sokmen/|30 SEP 1993|Istanbul (Turkije)|||
+ppl/7/0/ef94d06e6d02f29b5e37c4c3e07.html|Spaanstra|Lemkje Jelles /Spaanstra/|29 AUG 1825|Baarderadeel|6 FEB 1892|Baarderadeel|
+ppl/4/5/ef94d06e720288e53146826da54.html|van der Spoel|Anje /van der Spoel/|30 DEC 2001||||
+ppl/d/4/ef94d06e720353ab0ddaae7d34d.html|van der Spoel|Annaska /van der Spoel/|10 APR 1986||||
+ppl/f/6/ef94d06e7209adac14b8d0eb6f.html|Speidel|Melissa Marie /Speidel/|14 MAY 1963||||
+ppl/8/e/ef94d06e7701252ae258e23dae8.html|van der Spoel|Antje /van der Spoel/|31 JAN 1928|Rotterdam|||
+ppl/5/a/ef94d06e7704dcec509b938bda5.html|van der Spoel|Annelishe /van der Spoel/|12 AUG 1965||||
+ppl/8/b/ef94d06e7c04db695977d0004b8.html|van der Spoel|Christina /van der Spoel/|26 JAN 1962||||
+ppl/3/f/ef94d06e7c0639f08cfdd2e18f3.html|van der Spoel|Carolina /van der Spoel/|24 SEP 1962||||
+ppl/1/9/ef94d06e7c07e354d44ee9fbb91.html|van der Spoel|Claire /van der Spoel/|11 MAY 1992||||
+ppl/f/8/ef94d06e8104d69ff1b1f75278f.html|van der Spoel|Corina /van der Spoel/|15 JUN 1967||||
+ppl/c/a/ef94d06e810638291ad4f4d7aac.html|van der Spoel|Diaan /van der Spoel/|4 JAN 2001||||
+ppl/1/2/ef94d06e8107e54e47ceb32a21.html|van der Spoel|Dwight /van der Spoel/|22 NOV 1981||||
+ppl/7/f/ef94d06e8b02b7e1a66fe7415f7.html|van der Spoel|Gerrit /van der Spoel/|26 SEP 1973||||
+ppl/1/3/ef94d06e8b02c7b885b23c4531.html|van der Spoel|Gerrit /van der Spoel/|4 JUL 1929|Rotterdam|||
+ppl/e/0/ef94d06e901259c9663e83de30e.html|van der Spoel|Gisela /van der Spoel/|25 MAY 1986||||
+ppl/a/d/ef94d06e90153f2e33d1b02c5da.html|van der Spoel|Grieta /van der Spoel/|13 MAY 1969||||
+ppl/a/7/ef94d06e9017e86ca993a3a2a7a.html|van der Spoel|Greta /van der Spoel/|16 FEB 1938|Hoorn|||
+ppl/7/9/ef94d06e9501b063a2377727997.html|van der Spoel|Johan /van der Spoel/|14 JUN 1967||||
+ppl/9/c/ef94d06e950578fc60fd07896c9.html|van der Spoel|Heike /van der Spoel/|8 OCT 1989||||
+ppl/d/a/ef94d06e9505972533eb1a437ad.html|van der Spoel|Irene /van der Spoel/|2 JUN 1959||||
+ppl/4/0/ef94d06e9a0382d96fead197304.html|van der Spoel|Kareline /van der Spoel/|17 AUG 1964||||
+ppl/e/8/ef94d06e9a0393da5328feaf78e.html|van der Spoel|Luke /van der Spoel/|20 JUL 1995||||
+ppl/7/2/ef94d06e9a0511392f69befbb27.html|van der Spoel|Louisa /van der Spoel/|16 FEB 1965||||
+ppl/6/c/ef94d06e9f113925264bce181c6.html|van der Spoel|Margaretha /van der Spoel/|29 NOV 1967||||
+ppl/f/0/ef94d06e9f16408843fa786f80f.html|van der Spoel|Marian /van der Spoel/|2 JUN 1955||||
+ppl/2/d/ef94d06e9f17245fb5c36ce82d2.html|van der Spoel|Marijke /van der Spoel/|24 JUN 1960||||
+ppl/f/3/ef94d06ea405a338ec81ba3483f.html|van der Spoel|Mariska /van der Spoel/|9 JUL 1989||||
+ppl/3/9/ef94d06ea911ca7b37117a3cd93.html|van der Spoel|Mathilda /van der Spoel/|6 AUG 1997||||
+ppl/e/a/ef94d06ea9155759ba620dd9ae.html|van der Spoel|Maurits /van der Spoel/|6 JAN 1969||||
+ppl/f/5/ef94d06eae014c839ca76be015f.html|van der Spoel|Nico /van der Spoel/|5 JAN 1965||||
+ppl/3/0/ef94d06eae06f813531e7a9f103.html|van der Spoel|Natasja /van der Spoel/|22 NOV 1969||||
+ppl/9/9/ef94d06eae07b88c45d0d5ede99.html|van der Spoel|Pieter /van der Spoel/|1 DEC 1931|Hoorn|||
+ppl/7/2/ef94d06eb3010a851ffe36f927.html|van der Spoel|Robert /van der Spoel/|6 FEB 1959||||
+ppl/7/6/ef94d06eb301340670ef1903367.html|van der Spoel|Ronald /van der Spoel/|5 SEP 1957||||
+ppl/7/0/ef94d06eb30a98a1c0a26c2d07.html|van der Spoel|Richard /van der Spoel/|27 SEP 1962||||
+ppl/2/d/ef94d06eb811196e2af894bd4d2.html|van der Spoel|Ruben /van der Spoel/|26 MAR 1998||||
+ppl/f/6/ef94d06eb8134376456a1fa096f.html|van der Spoel|Ruud /van der Spoel/|17 SEP 1941|Hoorn|||
+ppl/1/2/ef94d06eb8175ac82b28bc44921.html|van der Spoel|Ruan Pieter /van der Spoel/|13 NOV 2001||||
+ppl/b/7/ef94d06ebd03a8862216d54a17b.html|van der Spoel|Simke /van der Spoel/|26 JAN 1934|Hoorn|9 FEB 2003||
+ppl/f/6/ef94d06ebd071f8f97e778c1b6f.html|van der Spoel|Simke /van der Spoel/|6 FEB 1902|Rotterdam|17 FEB 1985|Potchefstroom (Zuid Afrika)|
+ppl/6/4/ef94d06ec207996ca0fe32ae646.html|van der Spoel|Simke /van der Spoel/|27 NOV 1959||||
+ppl/2/8/ef94d06ec20ee75c07f5dc5e82.html|van der Spoel|Sjane /van der Spoel/|3 JUL 1930|Hoorn|||
+ppl/b/5/ef94d06ecc01e577784b1fb4f5b.html|van der Spoel|Travis /van der Spoel/|22 MAY 1989||||
+ppl/c/2/ef94d06ecc02ebbfbda85d8622c.html|van der Spoel|Theo /van der Spoel/|27 NOV 1970||||
+ppl/3/6/ef94d06ecc07bfa0746ed7cfd63.html|van der Spoel|Wouter /van der Spoel/|9 APR 1935|Hoorn|||
+ppl/c/9/ef94d06ed1029c05a5a7709219c.html|Staal|dochter 2 /Staal/|||||
+ppl/0/d/ef94d06ed103edbcdd2dd1fc5d0.html|Staal|dochter 1 /Staal/|||||
+ppl/4/e/ef94d06ed10476bea808cbbdee4.html|Staal|dochter 3 /Staal/|||||
+ppl/a/7/ef94d06ed106533e279d2859c7a.html|Staal|Harvey /Staal/|||||
+ppl/e/c/ef94d06ed602d0fb8ca0dbf3ace.html|Staal|zoon 1 /Staal/|||||
+ppl/6/7/ef94d06ed6032384026fd83cd76.html|Staalstra|Harmen Jan /Staalstra/|10 DEC 1935|Franeker|4 MAR 2002|Leeuwarden|
+ppl/7/b/ef94d06ed6044e6c67e519c78b7.html|Staal|zoon 2 /Staal/|||||
+ppl/c/7/ef94d06edb12d924fc0bc0f07c.html|Staalstra|Ruud /Staalstra/|||||
+ppl/c/6/ef94d06edb1301eccfae59b4b6c.html|Staalstra|Helga /Staalstra/|||||
+ppl/8/7/ef94d06edb1516e46f009946878.html|Staalstra|Rob /Staalstra/|||||
+ppl/f/6/ef94d06ee0028a1de9be846ba6f.html|Stavast|Deborah  (Debbie) /Stavast/|18 APR 1985|Dordrecht|||
+ppl/1/b/ef94d06ee504ef39b0eae7d4db1.html|Stellingwerf|Romkje Oebles /Stellingwerf/|12 NOV 1823|Franekeradeel|7 FEB 1908|Franekeradeel|
+ppl/7/6/ef94d06eea04283e1dc39a92967.html|Stoltz|Johannes Samuels /Stoltz/|1781||||
+ppl/d/e/ef94d06eea05173566f4eaa7bed.html|Stienstra|Sybrigje Tjerks /Stienstra/|28 NOV 1802|Harns|16 DEC 1833|Sweins|
+ppl/0/2/ef94d06eef043064113b1392b20.html|van Strien|Maria /van Strien/|||||
+ppl/4/7/ef94d06eef053ec0fb6b61c6c74.html|Strikwerda|Bauke /Strikwerda/|13 FEB 1863|Franeker|||
+ppl/3/3/ef94d06eef07fb16d539e463b33.html|Strikwerda|Baukje /Strikwerda/|19 DEC 1851|Franeker|||
+ppl/1/f/ef94d06ef40143833d987f5b0f1.html|Strikwerda|Daniel /Strikwerda/|27 JAN 1853|Franeker|||
+ppl/a/3/ef94d06ef401681b01de141c53a.html|Strikwerda|Baukje /Strikwerda/|12 JAN 1854|Franeker|||
+ppl/e/a/ef94d06ef9145a9922362fe22ae.html|Strikwerda|Daniel Tjallings /Strikwerda/|||||
+ppl/0/f/ef94d06ef9167a3a1503d95f1f0.html|Strikwerda|Haye Daniels /Strikwerda/|30 AUG 1824|Franeker|||
+ppl/2/b/ef94d06ef9169bbf251b69432b2.html|Strikwerda|Grietje /Strikwerda/|12 MAR 1855|Franeker|||
+ppl/3/0/ef94d06efe0342ae4c4d84bf303.html|Strikwerda|Jantje /Strikwerda/|25 NOV 1847|Franeker|||
+ppl/b/b/ef94d06f0372c2e8d6bd8b4a3bb.html|Strikwerda|Oege /Strikwerda/|29 AUG 1860|Franeker|||
+ppl/4/e/ef94d06f087799de394023fb3e4.html|Strikwerda|Reintje /Strikwerda/|2 SEP 1850|Franeker|||
+ppl/4/f/ef94d06f0d73ab2b98018cf15f4.html|Strikwerda|Wytske /Strikwerda/|3 SEP 1849|Franeker|2 JAN 1856|Franeker|
+ppl/d/b/ef94d06f0d73b49e41e1e1d65bd.html|Strikwerda|Tjalling Daniels /Strikwerda/|||||
+ppl/f/0/ef94d06f1271e0485b6c8709b0f.html|Strikwerda|Wytske /Strikwerda/|21 APR 1856|Franeker|29 JAN 1887|Franeker|
+ppl/f/2/ef94d06f1273d922cbc850e3a2f.html|Swart|Klaas Ruurds /Swart/|1806|Marrum|||
+ppl/c/f/ef94d06f18437c7e574d8dd8bfc.html|Swart|Ruurd Klases /Swart/|||||
+ppl/5/e/ef94d06f18450238f268762abe5.html|Tanpa|Amnuay /Tanpa/|8 AUG 1968|Thailand|||
+ppl/2/4/ef94d06f184776ab97f7483be42.html|Swart|Lysbeth /Swart/|29 JAN 1814|Marrum|||
+ppl/3/a/ef94d06f1d4769e405fabd0d3a3.html|Terpstra|Eelke Gerrits /Terpstra/|1802||||
+ppl/2/f/ef94d06f1d47d3b487fd18032f2.html|Tigchelaar|Antje /Tigchelaar/|||26 NOV 1960|Leeuwarden|
+ppl/7/7/ef94d06f2247f70b599bcc28177.html|Tijsse Klasen|Alexander Willibrordus Fransiscus /Tijsse Klasen/|22 JUN 16381|Eindhoven|||
+ppl/0/9/ef94d06f275297d10c3a73bfc90.html|Tijsse Klasen|Dominicus Fransiscus Johannes /Tijsse Klasen/|11 APR 1955|Eindhoven|||
+ppl/0/d/ef94d06f2c41bbbc65a016e9d0.html|Tijsse Klasen|Imre /Tijsse Klasen/|6 JUN 1988|Loon op Zand|||
+ppl/4/4/ef94d06f2c465f000eedd2bcf44.html|Tijsse Klasen|Josephus Martinus Rudolfus /Tijsse Klasen/|28 OCT 1959|Eindhoven|||
+ppl/b/5/ef94d06f2c473859d965608535b.html|Tijsse Klasen|Martinus Antonius /Tijsse Klasen/|||||
+ppl/2/2/ef94d06f314256b5ff46302c222.html|Tuinstra|Johan Frederik /Tuinstra/|1827||||
+ppl/5/c/ef94d06f31425d147896a0672c5.html|Tijsse Klasen|Orin /Tijsse Klasen/|7 MAY 1992|Loon op Zand|||
+ppl/4/a/ef94d06f314334ca46cd89a7fa4.html|Tinnie of Tinney|Linda /Tinnie of Tinney/|||||
+ppl/8/2/ef94d06f3145702b9fccf328228.html|Tolsma|Tjitske Reinders /Tolsma/|||||
+ppl/0/c/ef94d06f365100e93de4ee226c0.html|van der Loon|Froukje /van der Loon/|||||
+ppl/f/b/ef94d06f3652e46d11b434464bf.html|Vallianatos|Stephanie /Vallianatos/|21 APR 1966|Rotterdam of |Griekenland|||
+ppl/f/0/ef94d06f36533fddadb8ca96b0f.html|van der Loon|Froukje /van der Loon/|||||
+ppl/c/f/ef94d06f36555d29bd92fc363fc.html|van Vels| /van Vels/|||||
+ppl/a/b/ef94d06f365633a0efe1cd273ba.html|van Vels| /van Vels/|||||
+ppl/0/5/ef94d06f3b4152a0f360bc6f50.html|Vanderloon|Aaron Lee /Vanderloon/|2 OCT 1972||||
+ppl/7/3/ef94d06f3b422d91c37ea20ee37.html|van Vels|Coby /van Vels/|||||
+ppl/a/8/ef94d06f4041af46580bbe5c68a.html|Vanderloon|Alice Louis /Vanderloon/|31 AUG 1949|USA|11 NOV 1950|USA|
+ppl/a/1/ef94d06f4541ecb2e5fe2fc261a.html|Vanderloon|Anna /Vanderloon/|||||
+ppl/9/5/ef94d06f454556c5baebba259.html|Vanderloon|Antje /Vanderloon/|20 JAN 1922|Franeker|29 AUG 1937|USA|
+ppl/4/7/ef94d06f4a42921d8f7005fc774.html|Vanderloon|Ashley /Vanderloon/|23 OCT 1987||||
+ppl/c/b/ef94d06f4a470171279f3dd89bc.html|Vanderloon|Christofer /Vanderloon/|||||
+ppl/a/1/ef94d06f4a4a0e22419642871a.html|Vanderloon|Dick /Vanderloon/|18 MAY 1932|Grand Rapids-U.S.A.|6 JUL 1985|USA|
+ppl/d/3/ef94d06f4f41a73a803b3e53b3d.html|Vanderloon|Elisa /Vanderloon/|21 JUL 1926|Franeker|||
+ppl/1/2/ef94d06f4f447839c3f4cb5e421.html|Vanderloon|Edward /Vanderloon/|||||
+ppl/b/9/ef94d06f4f4661f0c90b89b79b.html|Vanderloon|Elisabeth /Vanderloon/|29 SEP 1920|Franeker|||
+ppl/7/7/ef94d06f545453e2de9a0118877.html|Vanderloon|Eric /Vanderloon/|2 SEP 1976||||
+ppl/5/3/ef94d06f5455046b0dbb1a0b35.html|Vanderloon|Hiltje /Vanderloon/|5 DEC 1923|Sexbierum|||
+ppl/7/4/ef94d06f54562f04d32f94bad47.html|Vanderloon|Hank of Henry /Vanderloon/|1 JUL 1941||||
+ppl/9/c/ef94d06f5e424b0d1fc84fd2fc9.html|Vanderloon|Hollis /Vanderloon/|12 SEP 1969||||
+ppl/4/b/ef94d06f5e493ba55eacfea1b4.html|Vanderloon|Kent Nordon /Vanderloon/|22 JUN 1960||||
+ppl/c/3/ef94d06f6342bc53a65bafb5b3c.html|Vanderloon|Laura /Vanderloon/|6 SEP 1983||||
+ppl/7/4/ef94d06f6347c429466705eee47.html|Vanderloon|Kurt Richard /Vanderloon/|19 JAN 1966||||
+ppl/a/1/ef94d06f634a231f9a90d3e1a.html|Vanderloon|Leon /Vanderloon/|18 DEC 1943|USA|||
+ppl/e/e/ef94d06f6842c5227015648a1ee.html|Vanderloon|Nickolas /Vanderloon/|24 JUL 1986||||
+ppl/6/5/ef94d06f68456a4a41017345356.html|Vanderloon|Nicole /Vanderloon/|29 SEP 1978||||
+ppl/6/c/ef94d06f684625d207f86b627c6.html|Vanderloon|Marrisa Joy /Vanderloon/|||||
+ppl/a/e/ef94d06f684663b61f23c987eea.html|Vanderloon|Merideth May /Vanderloon/|||||
+ppl/b/4/ef94d06f6d416a91df86d34894b.html|Vanderloon|Peter /Vanderloon/|||||
+ppl/0/4/ef94d06f6d45a80e38795c69c40.html|Vanderloon|Pieter /Vanderloon/|25 MAY 1919|Franeker|||
+ppl/a/d/ef94d06f7242d9d5cd5ae9b60da.html|Vanderloon|Tracy /Vanderloon/|11 OCT 1977||||
+ppl/4/3/ef94d06f7245b7422099e3d434.html|Vanderloon|Travis /Vanderloon/|11 OCT 1977||||
+ppl/e/8/ef94d06f7c46d93873f6501778e.html|Vanderloon|Walter Theodoor /Vanderloon/|20 JAN 1939|Grand Rapids- U.S.A.|||
+ppl/f/c/ef94d06f7c477ad9600a7b525cf.html|Vanderloon|Trijntje /Vanderloon/|13 MAY 1933|Grand Rapids- U.S.A.|AUG 2000||
+ppl/e/5/ef94d06f7c4efb443cedf5f85e.html|VanderVeen|Paul Marie /VanderVeen/|15 JAN 1980||||
+ppl/2/3/ef94d06f814129a9008f52c2932.html|van Veen|Hendrikje Geerts /van Veen/|15 JUN 1818|Lemmer|||
+ppl/3/b/ef94d06f8143fdbc0232aaf0ab3.html|van der Veen|Anja /van der Veen/|||||
+ppl/b/a/ef94d06f814466402a7d25e52ab.html|VanDyke|Peter /VanDyke/|||||
+ppl/9/f/ef94d06f8147c26d3d0f1d5c9f9.html|vanDyke|Sharon /vanDyke/|1957||||
+ppl/0/8/ef94d06f8644ba9f2a0a19a7780.html|Veenstra|Fennie /Veenstra/||Zwolle|||
+ppl/8/3/ef94d06f8645af821a773668f38.html|Veenstra|Grietje Sjoerds /Veenstra/|||||
+ppl/2/7/ef94d06f8b55e07508e8b53c972.html|van Vels|Bernard /van Vels/|2 APR 1892||1971||
+ppl/2/f/ef94d06f8b579d0241c2f16e4f2.html|van Vels|Antje /van Vels/|16 MAR 1915||||
+ppl/4/9/ef94d06f8b57fed6fba0c7b7f94.html|van Vels|Aaltje (Alice) /van Vels/|||1972||
+ppl/d/5/ef94d06f9051ffa957b6838ec5d.html|van Vels|IJsebrand /van Vels/|26 APR 1885||6 MAY 1984||
+ppl/f/3/ef94d06f95463c70f97135ffd3f.html|van Vels|Jacob /van Vels/|3 NOV 1925|USA|||
+ppl/0/b/ef94d06f9a52552727b88151fb0.html|van Vels|Jacoba Aaltje (Coby) /van Vels/|||1967||
+ppl/6/8/ef94d06fb282ca750c20e9e1186.html|van Vels|Jan (John) /van Vels/|7 NOV 1889||6 DEC 1945||
+ppl/b/6/ef94d06fb287b5abc5bd83b156b.html|van Vels|Luite /van Vels/|7 JUL 1858||14 DEC 1944|USA|
+ppl/0/5/ef94d06fb782d000acfa0c3650.html|van Vels|Piet /van Vels/|3 JAN 1918||5 MAY 2011|Hudsonville, Michagan|
+ppl/4/6/ef94d06fb784d72ea9101597964.html|van Vels|Luite (Louis) /van Vels/|2 MAY 1913||31 MAR 1942||
+ppl/9/e/ef94d06fbc8201cb03f9c182de9.html|Verduyn|Walter Marcel /Verduyn/|27 AUG 1973|Rotterdam|||
+ppl/d/5/ef94d06fbc857c33ee3bdacb65d.html|van Vels|Thijs /van Vels/|2 SEP 1894||12 JAN 1985||
+ppl/2/8/ef94d06fbc876a2fbb6fc890682.html|Versteege|Cornelia /Versteege/|24 AUG 1943|Amsterdam|||
+ppl/a/c/ef94d06fc184281938eaf1f3cca.html|Villanueva|Herlinda /Villanueva/|||||
+ppl/2/8/ef94d06fc185b36c7527945e782.html|Visser|Andries /Visser/|25 JUN 1824|Barradeel|||
+ppl/a/9/ef94d06fc1869214361d799819a.html|Visser|Age /Visser/|25 FEB 1836|Barradeel|||
+ppl/e/8/ef94d06fc683eb9fe3b81be988e.html|Visser|Jaike /Visser/|10 MAR 1822|Barradeel|||
+ppl/3/7/ef94d06fcb919d50f1996d8b173.html|Visser|Pieter /Visser/|20 FEB 1833|Barradeel|||
+ppl/b/a/ef94d06fd0815d0b169c2cbf1ab.html|Visser|Pietje /Visser/|6 FEB 1832||||
+ppl/9/b/ef94d06fd08224d77b07413a0b9.html|Visser|Sijbren Yges /Visser/|||||
+ppl/7/d/ef94d06fd087ee3ac8970fd59d7.html|Visser|Sipkje Sijbrens /Visser/|6 AUG 1829|Oosterbierum/Barradeel|14 JUN 1870|Barradeel|
+ppl/7/d/ef94d06fd591042ee75030146d7.html|Vlasblom|Maartje /Vlasblom/|21 OCT 1950|Rotterdam|||
+ppl/9/a/ef94d06fd592f9c24327e8ba6a9.html|Visser|Tietje /Visser/|20 SEP 1837|Barradeel|||
+ppl/b/5/ef94d06fda8169425467045e75b.html|van Vliet|Arie /van Vliet/|29 AUG 1985||||
+ppl/b/7/ef94d06fdf825d5ba710efc37b.html|vraag|April /vraag/|||||
+ppl/f/9/ef94d06fdf86acb19004a9be19f.html|de Vries|dochter /de Vries/|||||
+ppl/c/4/ef94d06fdf874dfca4370c85a4c.html|de Vries|Bertus /de Vries/|||||
+ppl/8/4/ef94d06fe4820f2b3ae42a7b248.html|de Vries|Epke /de Vries/|12 NOV 1922|Woudsend|16 NOV 2019|Velp|
+ppl/5/3/ef94d06fe48398bdd242740db35.html|de Vries|dochter /de Vries/|||||
+ppl/c/f/ef94d06fe4844b7e03985c678fc.html|de Vries|Klaas /de Vries/|1 MAR 1963||||
+ppl/3/8/ef94d06fe983049c25f5c3fe483.html|de Vries|Marcus /de Vries/|28 MAR 1991||||
+ppl/5/5/ef94d06fe987d90463ba4c8d155.html|de Vries|Pieter /de Vries/|27 JUL 1992||||
+ppl/1/5/ef94d06fee8179de07c71e89451.html|de Vries|Tjeerd /de Vries/|||||
+ppl/2/3/ef94d06ff384a9b6204e2d59432.html|de Waal|Coenraad /de Waal/|6 JUL 1970||||
+ppl/a/c/ef94d06ff3854581dfd55c9a1ca.html|Wairata|Hella Maria Cornelia /Wairata/|5 JUL 1956|Amersfoort|||
+ppl/d/f/ef94d06ff385ae633b8c22f9dfd.html|Wairata|Cornelisz /Wairata/|17 DEC 1915|Tihulale Ceram (Indonesie)|||
+ppl/6/e/ef94d06ff8838f5f63d97538ae6.html|Waldorff|Sally /Waldorff/|27 AUG 1945|Hastings, Michigan|||
+ppl/b/f/ef94d06ff8857ada625f5291efb.html|Wassenaar|Klaaske /Wassenaar/|20 MAR 1906|Stiens (?)|||
+ppl/0/e/ef94d06ff886a490b29513f76e0.html|van der Wal|Frans /van der Wal/|1793||||
+ppl/e/f/ef94d06ffd8467a8ae5d87fc3fe.html|Wassenaar|Simon /Wassenaar/|||||
+ppl/2/3/ef94d06ffd8560b3f1eaf0fc732.html|Wassenaar|Trijntje Johannes /Wassenaar/|||||
+ppl/f/4/ef94d06ffd85b939e32d7f9ee4f.html|van der Watt|Marieta /van der Watt/|4 JUN 1959||||
+ppl/5/f/ef94d06ffd86a19035f575fc5f5.html|Weemhof|Joan /Weemhof/|||||
+ppl/7/9/ef94d07002b6e70efde2a3c4f97.html|Wels|Akke /Wels/|14 MAR 1864|Franeker|||
+ppl/8/e/ef94d07005e5b14e240a2a613e8.html|Wels|Akke /Wels/|29 JAN 1877|Franeker|||
+ppl/2/3/ef94d07008726a328e961badc32.html|Wels|Aukje /Wels/|23 NOV 1872|Franeker|||
+ppl/e/7/ef94d0700ec24f4cb7ae5ed647e.html|Wels|Elisabeth /Wels/|13 OCT 1827|Franeker|||
+ppl/1/3/ef94d07013c3d0b3fa837c97a31.html|Wels|Folkert /Wels/|19 AUG 1835|Franeker|21 JUN 1869|Franeker|
+ppl/6/a/ef94d07013c6beb93d54ee73a6.html|Wels|Folkers /Wels/|11 MAY 1869|Franeker|||
+ppl/9/5/ef94d07018c10dfcdf085750359.html|Wels|Hette /Wels/|27 JUL 1861|Franeker|||
+ppl/f/2/ef94d07018c1104b12a47b3ea2f.html|Wels|Hette Johan /Wels/|1800||13 JAN 1852||
+ppl/4/8/ef94d0701dc14a32b851f5e1d84.html|Wels|Johannes Hettes /Wels/|7 MAR 1832|Franeker|||
+ppl/0/b/ef94d0701dc788b9d6332c1beb0.html|Wels|Pieter /Wels/|16 FEB 1867|Franeker|||
+ppl/8/e/ef94d0701dc935a26bec216ae8.html|Wels|Pietje /Wels/|30 NOV 1829|Franeker|7 FEB 1916|Franeker|
+ppl/b/d/ef94d07022c39d2146debccedb.html|Westphal|Anne /Westphal/|||||
+ppl/6/1/ef94d07022c5854b30a8923d316.html|van Wier|Dirk /van Wier/|||||
+ppl/b/3/ef94d07022c720d649a22cdae3b.html|Wigchers|Hendrika /Wigchers/|4 MAR 1764|Aalten|5 APR 1897|Aalten|
+ppl/4/f/ef94d07027c58cfb8882ba4d6f4.html|Wijnhoven|Helena Josef Maria /Wijnhoven/|20 MAY 1956|Baarlo|||
+ppl/0/f/ef94d07027c5f113b17443e4df0.html|Wijngaard|Jan /Wijngaard/|||||
+ppl/4/8/ef94d07031c1d1851bb3cc9ac84.html|de Wit|Klaas /de Wit/|1811||||
+ppl/9/7/ef94d07031c40788db589f28d79.html|Willemsen|Th.J.F. /Willemsen/|||||
+ppl/5/0/ef94d07031c47d8633ee5f19205.html|Wilderdijk|Hendrikje Gerdina /Wilderdijk/|6 AUG 1917|Harderwijk|||
+ppl/0/5/ef94d07031c71d2fabb1817750.html|Winkelhagen|Elisabeth Gertudis Maria /Winkelhagen/|||||
+ppl/2/3/ef94d07036c29912d0f10b0c332.html|ten Wolde|Hannah Louise /ten Wolde/|26 NOV 1998|Harderwijk|||
+ppl/0/2/ef94d07036c66cfe3d06a0ab620.html|ten Wolde|Wilhelmus /ten Wolde/|12 JUN 1969|Harderwijk|||
+ppl/3/c/ef94d07036c6b4cd8c8f0f609c3.html|de With|Anna Tammes /de With/|||||
+ppl/2/d/ef94d0703bc1276349457d6f9d2.html|Ypma|Klaas /Ypma/|||||
+ppl/f/d/ef94d0703bc58f4249675050fdf.html|Wynja|Harry /Wynja/|24 JAN 1964|Mantgum|||
+ppl/2/5/ef94d0703bc7edf5cfba37b0b52.html|Ypma|Ulbe /Ypma/|||||
+ppl/9/e/ef94d07040c15970c62fd1461e9.html|de Zee|Cornelis /de Zee/|||||
+ppl/0/a/ef94d07040c1dcae4f47726e5a0.html|de Zee|Eva /de Zee/|20 NOV 1801|Medemblik|20 NOV 1828|Kampen|
+ppl/3/1/ef94d07040c3f975173cb8c6d13.html|van de Zander|Eleonor /van de Zander/|||||
+ppl/c/6/ef94d07045c6b0d3492c8f1666c.html|Zijlstra|Dirk Pieters /Zijlstra/|1811||||
+ppl/a/4/ef94d07045c6e5a3b38050d944a.html|Zijlstra|Akke Folkerts /Zijlstra/|||||
+ppl/2/7/ef94d07045c728ae991214aaa72.html|Zijlstra|Grietje Jans /Zijlstra/|||||
+ppl/b/f/ef94d0704fc1347981611d608fb.html|Zijlstra|Ruurd /Zijlstra/|||||
+ppl/1/2/ef94d0704fc63fa63f9d977b221.html|Zijlstra|Hans /Zijlstra/|20 MAR 1958|Leeuwarden|||
+ppl/5/b/ef94d0704fc71877ccd0b7c62b5.html|Zijlstra|Johannes Ydes /Zijlstra/|9 MAY 1868|Barradeel|||
+ppl/b/8/ef94d07054c4f45a0f22a920c8b.html|Zuidema|Tjitske Beerns /Zuidema/|1771||10 OCT 1826|Ferwerderadeel|
+ppl/8/4/ef94d07054cbca3131d97bab48.html|Zijlstra|Savan /Zijlstra/|30 APR 1995|Savan|||
+ppl/c/9/ef94d6ec93277233be6f366579c.html|Elroy|Rosa Rebecca /Elroy/|16 JUL 2020|St. Antonius Hospital Utrecht|||
+ppl/5/4/ef94d8b641e64385c946a926445.html|Elroy|Brinn Minnie /Elroy/|7 MAR 2018|Diakonessenhuis Utrecht|||
